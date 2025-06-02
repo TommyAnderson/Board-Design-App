@@ -63,6 +63,4 @@ Dennis(Stack Overflow)
 Andre Carvalho(Stack Overflow)
 Dale Skrien
 
-## Presentation
-https://1drv.ms/p/s!AkkujEYGSTktgjHjQGClm09h3ujq?e=oQzrxR
 
