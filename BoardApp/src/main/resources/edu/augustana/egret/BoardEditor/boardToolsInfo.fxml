@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="204.0" prefWidth="632.0" style="-fx-border-width: 2; -fx-border-color: black;" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <AnchorPane layoutX="3.0" layoutY="3.0" prefHeight="224.0" prefWidth="623.0">
+         <children>
+            <Text layoutX="233.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Board Tools Info">
+               <font>
+                  <Font name="System Bold" size="20.0" />
+               </font>
+            </Text>
+            <Text layoutX="14.0" layoutY="87.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Set Selected Tile:">
+               <font>
+                  <Font name="System Bold" size="15.0" />
+               </font>
+            </Text>
+            <Text layoutX="138.0" layoutY="87.0" strokeType="OUTSIDE" strokeWidth="0.0" text="When clicked, tiles that are selected will be set to the corresponding height of the “Tile Height Slider”." wrappingWidth="475.459716796875">
+               <font>
+                  <Font size="13.0" />
+               </font>
+            </Text>
+            <Text layoutX="14.0" layoutY="143.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Select All Tiles:">
+               <font>
+                  <Font name="System Bold" size="15.0" />
+               </font>
+            </Text>
+            <Text layoutX="124.0" layoutY="141.0" strokeType="OUTSIDE" strokeWidth="0.0" text="When clicked all tiles on the board will be selected." wrappingWidth="475.459716796875" y="2.0">
+               <font>
+                  <Font size="13.0" />
+               </font>
+            </Text>
+            <Text layoutX="13.0" layoutY="185.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Deselect All Tiles:">
+               <font>
+                  <Font name="System Bold" size="15.0" />
+               </font>
+            </Text>
+            <Text layoutX="141.0" layoutY="183.0" strokeType="OUTSIDE" strokeWidth="0.0" text="When clicked all tiles on the board will be deselected." wrappingWidth="475.459716796875" y="2.0">
+               <font>
+                  <Font size="13.0" />
+               </font>
+            </Text>
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>

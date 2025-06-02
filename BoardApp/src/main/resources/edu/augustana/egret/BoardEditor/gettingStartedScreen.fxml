@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="419.0" prefWidth="631.0" style="-fx-border-width: 2; -fx-border-color: black;" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <AnchorPane layoutX="2.0" layoutY="3.0" prefHeight="524.0" prefWidth="626.0">
+         <children>
+            <Text layoutX="237.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Getting Started">
+               <font>
+                  <Font name="System Bold" size="20.0" />
+               </font>
+            </Text>
+            <Text layoutX="95.0" layoutY="77.0" strokeType="OUTSIDE" strokeWidth="0.0" text="For new users, here are some tips to create a basic project and use some of the tools." textAlignment="CENTER" wrappingWidth="436.23046875" />
+            <Text layoutX="25.0" layoutY="135.0" strokeType="OUTSIDE" strokeWidth="0.0" text="1.">
+               <font>
+                  <Font name="System Bold" size="15.0" />
+               </font>
+            </Text>
+            <Text layoutX="43.0" layoutY="135.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Select the &quot;New Project&quot; button." />
+            <Text layoutX="26.0" layoutY="195.0" strokeType="OUTSIDE" strokeWidth="0.0" text="3.">
+               <font>
+                  <Font name="System Bold" size="15.0" />
+               </font>
+            </Text>
+            <Text layoutX="43.0" layoutY="195.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Choose &quot;Square&quot; for the tile type." />
+            <Text layoutX="26.0" layoutY="227.0" strokeType="OUTSIDE" strokeWidth="0.0" text="4.">
+               <font>
+                  <Font name="System Bold" size="15.0" />
+               </font>
+            </Text>
+            <Text layoutX="43.0" layoutY="227.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Select &quot;Blank&quot; as the map design." />
+            <Text layoutX="105.0" layoutY="270.0" strokeType="OUTSIDE" strokeWidth="0.0" text="The Editor Screen will now load in with a number of tools on the left of the screen and a blank ten by ten map on the right." textAlignment="CENTER" wrappingWidth="416.7847900390625" />
+            <Text layoutX="25.0" layoutY="324.0" strokeType="OUTSIDE" strokeWidth="0.0" text="1.">
+               <font>
+                  <Font name="System Bold" size="15.0" />
+               </font>
+            </Text>
+            <Text layoutX="43.0" layoutY="324.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Clicking on a tile once caused it to become selected. Clicking it again will deselect it. Try clicking on several until pleased with the number selected to edit in the next step." wrappingWidth="548.4620971679688" />
+            <Text layoutX="26.0" layoutY="364.0" strokeType="OUTSIDE" strokeWidth="0.0" text="2.">
+               <font>
+                  <Font name="System Bold" size="15.0" />
+               </font>
+            </Text>
+            <Text layoutX="43.0" layoutY="364.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Slide the &quot;Tile Height Slider&quot; to a different height and click &quot;Set Selected Tile(s)&quot;. This will make every selected tile to be the height chosen on the slider." wrappingWidth="548.4620971679688" />
+            <Text layoutX="26.0" layoutY="406.0" strokeType="OUTSIDE" strokeWidth="0.0" text="3.">
+               <font>
+                  <Font name="System Bold" size="15.0" />
+               </font>
+            </Text>
+            <Text layoutX="43.0" layoutY="406.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Now choose the &quot;Randomize All&quot; button to set every tile to a random height and then press Ctrl+Z on a Windows computer or Command+Z on a Mac to undo that action." wrappingWidth="548.4620971679688" />
+            <Text layoutX="26.0" layoutY="166.0" strokeType="OUTSIDE" strokeWidth="0.0" text="2.">
+               <font>
+                  <Font name="System Bold" size="15.0" />
+               </font>
+            </Text>
+            <Text layoutX="43.0" layoutY="165.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Type &quot;10&quot; as the values for both the length and width of the board." />
+            <Text layoutX="26.0" layoutY="448.0" strokeType="OUTSIDE" strokeWidth="0.0" text="4.">
+               <font>
+                  <Font name="System Bold" size="15.0" />
+               </font>
+            </Text>
+            <Text layoutX="43.0" layoutY="448.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Lastly, try adding new rows and columns to your board by pressing the &quot;Add Row to Board&quot; and &quot;Add Column to Board&quot; as many times as desired." wrappingWidth="548.4620971679688" />
+            <Text layoutX="26.0" layoutY="489.0" strokeType="OUTSIDE" strokeWidth="0.0" text="5.">
+               <font>
+                  <Font name="System Bold" size="15.0" />
+               </font>
+            </Text>
+            <Text layoutX="43.0" layoutY="489.0" strokeType="OUTSIDE" strokeWidth="0.0" text="When satisfied, click on the &quot;File&quot; dropdown menu in the menu bar and select &quot;Close&quot; to go back to the main menu to create another project." wrappingWidth="548.4620971679688" />
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>

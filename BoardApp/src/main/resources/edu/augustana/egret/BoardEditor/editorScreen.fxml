@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.canvas.Canvas?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.SeparatorMenuItem?>
+<?import javafx.scene.control.Slider?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.input.KeyCodeCombination?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<BorderPane prefHeight="700.0" prefWidth="1200.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="edu.augustana.egret.BoardEditor.EditorScreen">
+   <center>
+      <Canvas fx:id="mainEditor" height="600.0" translateX="-50.0" width="700.0" BorderPane.alignment="CENTER" />
+   </center>
+   <top>
+      <MenuBar prefHeight="0.0" BorderPane.alignment="CENTER">
+        <menus>
+            <Menu mnemonicParsing="false" text="Board App">
+               <items>
+                  <MenuItem mnemonicParsing="false" onAction="#switchToMainMenu" text="Main Menu">
+                     <accelerator>
+                        <KeyCodeCombination alt="UP" code="M" control="DOWN" meta="UP" shift="DOWN" shortcut="UP" />
+                     </accelerator></MenuItem>
+               </items></Menu>
+          <Menu mnemonicParsing="false" text="File">
+            <items>
+                <MenuItem mnemonicParsing="false" onAction="#saveFile" text="Save">
+                     <accelerator>
+                        <KeyCodeCombination alt="UP" code="S" control="DOWN" meta="UP" shift="UP" shortcut="UP" />
+                     </accelerator></MenuItem>
+                  <SeparatorMenuItem mnemonicParsing="false" />
+                <MenuItem mnemonicParsing="false" onAction="#saveAsFile" text="Save As">
+                     <accelerator>
+                        <KeyCodeCombination alt="UP" code="S" control="DOWN" meta="UP" shift="DOWN" shortcut="UP" />
+                     </accelerator></MenuItem>
+                  <SeparatorMenuItem mnemonicParsing="false" />
+                <MenuItem mnemonicParsing="false" onAction="#switchToNewScreen" text="New">
+                     <accelerator>
+                        <KeyCodeCombination alt="UP" code="N" control="DOWN" meta="UP" shift="UP" shortcut="UP" />
+                     </accelerator></MenuItem>
+                  <SeparatorMenuItem mnemonicParsing="false" />
+                <MenuItem mnemonicParsing="false" onAction="#chooseFile" text="Open">
+                     <accelerator>
+                        <KeyCodeCombination alt="UP" code="O" control="DOWN" meta="UP" shift="UP" shortcut="UP" />
+                     </accelerator></MenuItem>
+                  <SeparatorMenuItem mnemonicParsing="false" />
+                <MenuItem mnemonicParsing="false" onAction="#closeCurrentFile" text="Close">
+                     <accelerator>
+                        <KeyCodeCombination alt="UP" code="C" control="DOWN" meta="UP" shift="UP" shortcut="UP" />
+                     </accelerator></MenuItem>
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Edit">
+               <items>
+                  <MenuItem mnemonicParsing="false" onAction="#undo" text="Undo">
+                     <accelerator>
+                        <KeyCodeCombination alt="UP" code="Z" control="DOWN" meta="UP" shift="UP" shortcut="UP" />
+                     </accelerator></MenuItem>
+                  <SeparatorMenuItem mnemonicParsing="false" />
+                  <MenuItem mnemonicParsing="false" onAction="#redo" text="Redo">
+                     <accelerator>
+                        <KeyCodeCombination alt="UP" code="Y" control="DOWN" meta="UP" shift="UP" shortcut="UP" />
+                     </accelerator></MenuItem>
+               </items></Menu>
+          <Menu mnemonicParsing="false" text="View">
+               <items>
+                  <MenuItem mnemonicParsing="false" onAction="#switchToPreviewScreen" text="3D Preview">
+                     <accelerator>
+                        <KeyCodeCombination alt="UP" code="D" control="DOWN" meta="UP" shift="UP" shortcut="UP" />
+                     </accelerator></MenuItem>
+               </items></Menu>
+          <Menu mnemonicParsing="false" text="Export">
+          	<items>
+          		<MenuItem mnemonicParsing="false" onAction="#exportToOBJ" text="Export Board as OBJ" />
+          		<SeparatorMenuItem mnemonicParsing="false" />
+          		<MenuItem mnemonicParsing="false" onAction="#exportToPLY" text="Export Board as PLY" />
+          	</items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Help">
+            <items>
+                  <MenuItem mnemonicParsing="false" onAction="#showBoardToolsInfo" text="Board Tools Info" />
+                  <SeparatorMenuItem mnemonicParsing="false" />
+                  <MenuItem mnemonicParsing="false" onAction="#showBoardFeaturesInfo" text="Board Features Info" />
+                  <SeparatorMenuItem mnemonicParsing="false" />
+                  <MenuItem mnemonicParsing="false" onAction="#showExtraFeaturesInfo" text="Extra Features Info" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Other">
+               <items>
+                  <MenuItem mnemonicParsing="false" onAction="#showAboutScreen" text="About Us" />
+                  <SeparatorMenuItem mnemonicParsing="false" />
+                  <MenuItem mnemonicParsing="false" onAction="#showGettingStartedScreen" text="Getting Started" />
+               </items>
+          </Menu>
+        </menus>
+      </MenuBar>
+   </top>
+   <left>
+      <AnchorPane prefHeight="673.0" prefWidth="496.0" BorderPane.alignment="CENTER">
+         <children>
+            <Slider fx:id="heightSelector" blockIncrement="1.0" layoutX="381.0" layoutY="110.0" majorTickUnit="1.0" max="10.0" maxHeight="492.0" min="1.0" minorTickCount="0" orientation="VERTICAL" prefHeight="492.0" prefWidth="52.0" showTickLabels="true" showTickMarks="true" snapToTicks="true" value="1.0" />
+            <Label layoutX="53.0" layoutY="26.0" text="Editor Tools &amp; Features">
+               <font>
+                  <Font size="30.0" />
+               </font>
+            </Label>
+            <Label layoutX="136.0" layoutY="92.0" text="Main Board Tools">
+               <font>
+                  <Font name="System Bold" size="13.0" />
+               </font></Label>
+            <Label layoutX="136.0" layoutY="336.0" text="Board Features">
+               <font>
+                  <Font name="System Bold" size="13.0" />
+               </font></Label>
+            <Button layoutX="37.0" layoutY="444.0" mnemonicParsing="false" onAction="#randomizeTiles" prefHeight="21.0" prefWidth="138.0" text="Randomize All" />
+            <Button layoutX="37.0" layoutY="477.0" mnemonicParsing="false" onAction="#randomizeSelectedTiles" prefHeight="18.0" prefWidth="138.0" text="Randomize Selected" />
+            <Button layoutX="36.0" layoutY="117.0" mnemonicParsing="false" onAction="#heightChanger" prefHeight="126.0" prefWidth="289.0" text="Set Selected Tile(s) ">
+               <font>
+                  <Font size="22.0" />
+               </font></Button>
+            <Button layoutX="100.0" layoutY="610.0" mnemonicParsing="false" onAction="#resetAll" prefHeight="26.0" prefWidth="157.0" text="Reset Board to Original" />
+            <Button layoutX="36.0" layoutY="250.0" mnemonicParsing="false" onAction="#selectAllTiles" prefHeight="80.0" prefWidth="140.0" text="Select All Tiles">
+               <font>
+                  <Font size="15.0" />
+               </font></Button>
+            <Button layoutX="188.0" layoutY="250.0" mnemonicParsing="false" onAction="#deselectAllTiles" prefHeight="79.0" prefWidth="137.0" text="Deselect All Tiles">
+               <font>
+                  <Font size="15.0" />
+               </font></Button>
+            <Label layoutX="381.0" layoutY="92.0" text="Slider" />
+            <Label layoutX="366.0" layoutY="75.0" text="Tile Height " />
+            <Button layoutX="188.0" layoutY="364.0" mnemonicParsing="false" onAction="#addRow" prefHeight="25.0" prefWidth="138.0" text="Add Row to Board" />
+            <Button layoutX="188.0" layoutY="397.0" mnemonicParsing="false" onAction="#addColumn" prefHeight="22.0" prefWidth="138.0" text="Add Column to Board" />
+            <Button layoutX="36.0" layoutY="364.0" mnemonicParsing="false" onAction="#changeUnselectedTilesHeight" prefHeight="18.0" prefWidth="140.0" text="Unselected Tile Height" />
+            <Text layoutX="41.0" layoutY="539.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Select Tiles at Height:" wrappingWidth="133.47008514404297">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Text>
+            <TextField fx:id="tileHeightToSelect" layoutX="183.0" layoutY="521.0" prefHeight="25.0" prefWidth="81.0" />
+            <Button layoutX="273.0" layoutY="521.0" mnemonicParsing="false" onAction="#selectTilesByHeight" prefHeight="26.0" prefWidth="53.0" text="Select" />
+            <Label layoutX="35.0" layoutY="555.0" text="Tile Heights">
+               <font>
+                  <Font name="System Italic" size="13.0" />
+               </font>
+            </Label>
+            <Label layoutX="33.0" layoutY="572.0" text=" Being Used:" />
+            <Label fx:id="tileHeightLabel" layoutX="113.0" layoutY="564.0" prefHeight="17.0" prefWidth="213.0" />
+            <Button layoutX="188.0" layoutY="444.0" mnemonicParsing="false" onAction="#deleteRow" prefHeight="25.0" prefWidth="138.0" text="Delete Outer Row" />
+            <Button layoutX="188.0" layoutY="477.0" mnemonicParsing="false" onAction="#deleteColumn" prefHeight="25.0" prefWidth="138.0" text="Delete Outer Column" />
+            <Button layoutX="36.0" layoutY="397.0" mnemonicParsing="false" onAction="#makeSelectedTilesPointy" prefHeight="22.0" prefWidth="140.0" text="Toggle Tiles Pointy" />
+         </children>
+      </AnchorPane>
+   </left>
+</BorderPane>

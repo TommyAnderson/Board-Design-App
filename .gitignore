@@ -1,0 +1,3 @@
+#ignore files that Mac computers auto-generate
+.DS_Store
+

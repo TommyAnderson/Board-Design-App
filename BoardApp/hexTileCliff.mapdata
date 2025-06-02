@@ -1,0 +1,6517 @@
+{
+  "shape": "Hexagon",
+  "tileList": [
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          0.0,
+          0.0,
+          19.0,
+          38.0,
+          38.0,
+          19.0
+        ],
+        "yCoordinates": [
+          10.0,
+          31.93931022920578,
+          42.908965343808674,
+          31.93931022920578,
+          10.0,
+          -0.9696551146028902
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 0,
+        "row": 0,
+        "height": 7.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          40.0,
+          40.0,
+          59.0,
+          78.0,
+          78.0,
+          59.0
+        ],
+        "yCoordinates": [
+          10.0,
+          31.93931022920578,
+          42.908965343808674,
+          31.93931022920578,
+          10.0,
+          -0.9696551146028902
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 1,
+        "row": 0,
+        "height": 7.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          80.0,
+          80.0,
+          99.0,
+          118.0,
+          118.0,
+          99.0
+        ],
+        "yCoordinates": [
+          10.0,
+          31.93931022920578,
+          42.908965343808674,
+          31.93931022920578,
+          10.0,
+          -0.9696551146028902
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 2,
+        "row": 0,
+        "height": 7.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          120.0,
+          120.0,
+          139.0,
+          158.0,
+          158.0,
+          139.0
+        ],
+        "yCoordinates": [
+          10.0,
+          31.93931022920578,
+          42.908965343808674,
+          31.93931022920578,
+          10.0,
+          -0.9696551146028902
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 3,
+        "row": 0,
+        "height": 7.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          160.0,
+          160.0,
+          179.0,
+          198.0,
+          198.0,
+          179.0
+        ],
+        "yCoordinates": [
+          10.0,
+          31.93931022920578,
+          42.908965343808674,
+          31.93931022920578,
+          10.0,
+          -0.9696551146028902
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 4,
+        "row": 0,
+        "height": 7.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          200.0,
+          200.0,
+          219.0,
+          238.0,
+          238.0,
+          219.0
+        ],
+        "yCoordinates": [
+          10.0,
+          31.93931022920578,
+          42.908965343808674,
+          31.93931022920578,
+          10.0,
+          -0.9696551146028902
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 5,
+        "row": 0,
+        "height": 7.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          240.0,
+          240.0,
+          259.0,
+          278.0,
+          278.0,
+          259.0
+        ],
+        "yCoordinates": [
+          10.0,
+          31.93931022920578,
+          42.908965343808674,
+          31.93931022920578,
+          10.0,
+          -0.9696551146028902
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 6,
+        "row": 0,
+        "height": 7.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          280.0,
+          280.0,
+          299.0,
+          318.0,
+          318.0,
+          299.0
+        ],
+        "yCoordinates": [
+          10.0,
+          31.93931022920578,
+          42.908965343808674,
+          31.93931022920578,
+          10.0,
+          -0.9696551146028902
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 7,
+        "row": 0,
+        "height": 7.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          320.0,
+          320.0,
+          339.0,
+          358.0,
+          358.0,
+          339.0
+        ],
+        "yCoordinates": [
+          10.0,
+          31.93931022920578,
+          42.908965343808674,
+          31.93931022920578,
+          10.0,
+          -0.9696551146028902
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 8,
+        "row": 0,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          360.0,
+          360.0,
+          379.0,
+          398.0,
+          398.0,
+          379.0
+        ],
+        "yCoordinates": [
+          10.0,
+          31.93931022920578,
+          42.908965343808674,
+          31.93931022920578,
+          10.0,
+          -0.9696551146028902
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 9,
+        "row": 0,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          400.0,
+          400.0,
+          419.0,
+          438.0,
+          438.0,
+          419.0
+        ],
+        "yCoordinates": [
+          10.0,
+          31.93931022920578,
+          42.908965343808674,
+          31.93931022920578,
+          10.0,
+          -0.9696551146028902
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 10,
+        "row": 0,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          440.0,
+          440.0,
+          459.0,
+          478.0,
+          478.0,
+          459.0
+        ],
+        "yCoordinates": [
+          10.0,
+          31.93931022920578,
+          42.908965343808674,
+          31.93931022920578,
+          10.0,
+          -0.9696551146028902
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 11,
+        "row": 0,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          480.0,
+          480.0,
+          499.0,
+          518.0,
+          518.0,
+          499.0
+        ],
+        "yCoordinates": [
+          10.0,
+          31.93931022920578,
+          42.908965343808674,
+          31.93931022920578,
+          10.0,
+          -0.9696551146028902
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 12,
+        "row": 0,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          520.0,
+          520.0,
+          539.0,
+          558.0,
+          558.0,
+          539.0
+        ],
+        "yCoordinates": [
+          10.0,
+          31.93931022920578,
+          42.908965343808674,
+          31.93931022920578,
+          10.0,
+          -0.9696551146028902
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 13,
+        "row": 0,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          19.0,
+          19.0,
+          38.0,
+          57.0,
+          57.0,
+          38.0
+        ],
+        "yCoordinates": [
+          44.908965343808674,
+          66.84827557301446,
+          77.81793068761735,
+          66.84827557301446,
+          44.908965343808674,
+          33.93931022920579
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 0,
+        "row": 1,
+        "height": 7.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          59.0,
+          59.0,
+          78.0,
+          97.0,
+          97.0,
+          78.0
+        ],
+        "yCoordinates": [
+          44.908965343808674,
+          66.84827557301446,
+          77.81793068761735,
+          66.84827557301446,
+          44.908965343808674,
+          33.93931022920579
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 1,
+        "row": 1,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          99.0,
+          99.0,
+          118.0,
+          137.0,
+          137.0,
+          118.0
+        ],
+        "yCoordinates": [
+          44.908965343808674,
+          66.84827557301446,
+          77.81793068761735,
+          66.84827557301446,
+          44.908965343808674,
+          33.93931022920579
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 2,
+        "row": 1,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          139.0,
+          139.0,
+          158.0,
+          177.0,
+          177.0,
+          158.0
+        ],
+        "yCoordinates": [
+          44.908965343808674,
+          66.84827557301446,
+          77.81793068761735,
+          66.84827557301446,
+          44.908965343808674,
+          33.93931022920579
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 3,
+        "row": 1,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          179.0,
+          179.0,
+          198.0,
+          217.0,
+          217.0,
+          198.0
+        ],
+        "yCoordinates": [
+          44.908965343808674,
+          66.84827557301446,
+          77.81793068761735,
+          66.84827557301446,
+          44.908965343808674,
+          33.93931022920579
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 4,
+        "row": 1,
+        "height": 7.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          219.0,
+          219.0,
+          238.0,
+          257.0,
+          257.0,
+          238.0
+        ],
+        "yCoordinates": [
+          44.908965343808674,
+          66.84827557301446,
+          77.81793068761735,
+          66.84827557301446,
+          44.908965343808674,
+          33.93931022920579
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 5,
+        "row": 1,
+        "height": 7.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          259.0,
+          259.0,
+          278.0,
+          297.0,
+          297.0,
+          278.0
+        ],
+        "yCoordinates": [
+          44.908965343808674,
+          66.84827557301446,
+          77.81793068761735,
+          66.84827557301446,
+          44.908965343808674,
+          33.93931022920579
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 6,
+        "row": 1,
+        "height": 7.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          299.0,
+          299.0,
+          318.0,
+          337.0,
+          337.0,
+          318.0
+        ],
+        "yCoordinates": [
+          44.908965343808674,
+          66.84827557301446,
+          77.81793068761735,
+          66.84827557301446,
+          44.908965343808674,
+          33.93931022920579
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 7,
+        "row": 1,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          339.0,
+          339.0,
+          358.0,
+          377.0,
+          377.0,
+          358.0
+        ],
+        "yCoordinates": [
+          44.908965343808674,
+          66.84827557301446,
+          77.81793068761735,
+          66.84827557301446,
+          44.908965343808674,
+          33.93931022920579
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 8,
+        "row": 1,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          379.0,
+          379.0,
+          398.0,
+          417.0,
+          417.0,
+          398.0
+        ],
+        "yCoordinates": [
+          44.908965343808674,
+          66.84827557301446,
+          77.81793068761735,
+          66.84827557301446,
+          44.908965343808674,
+          33.93931022920579
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 9,
+        "row": 1,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          419.0,
+          419.0,
+          438.0,
+          457.0,
+          457.0,
+          438.0
+        ],
+        "yCoordinates": [
+          44.908965343808674,
+          66.84827557301446,
+          77.81793068761735,
+          66.84827557301446,
+          44.908965343808674,
+          33.93931022920579
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 10,
+        "row": 1,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          459.0,
+          459.0,
+          478.0,
+          497.0,
+          497.0,
+          478.0
+        ],
+        "yCoordinates": [
+          44.908965343808674,
+          66.84827557301446,
+          77.81793068761735,
+          66.84827557301446,
+          44.908965343808674,
+          33.93931022920579
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 11,
+        "row": 1,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          499.0,
+          499.0,
+          518.0,
+          537.0,
+          537.0,
+          518.0
+        ],
+        "yCoordinates": [
+          44.908965343808674,
+          66.84827557301446,
+          77.81793068761735,
+          66.84827557301446,
+          44.908965343808674,
+          33.93931022920579
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 12,
+        "row": 1,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          539.0,
+          539.0,
+          558.0,
+          577.0,
+          577.0,
+          558.0
+        ],
+        "yCoordinates": [
+          44.908965343808674,
+          66.84827557301446,
+          77.81793068761735,
+          66.84827557301446,
+          44.908965343808674,
+          33.93931022920579
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 13,
+        "row": 1,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          0.0,
+          0.0,
+          19.0,
+          38.0,
+          38.0,
+          19.0
+        ],
+        "yCoordinates": [
+          79.81793068761735,
+          101.75724091682312,
+          112.72689603142602,
+          101.75724091682312,
+          79.81793068761735,
+          68.84827557301446
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 0,
+        "row": 2,
+        "height": 7.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          40.0,
+          40.0,
+          59.0,
+          78.0,
+          78.0,
+          59.0
+        ],
+        "yCoordinates": [
+          79.81793068761735,
+          101.75724091682312,
+          112.72689603142602,
+          101.75724091682312,
+          79.81793068761735,
+          68.84827557301446
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 1,
+        "row": 2,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          80.0,
+          80.0,
+          99.0,
+          118.0,
+          118.0,
+          99.0
+        ],
+        "yCoordinates": [
+          79.81793068761735,
+          101.75724091682312,
+          112.72689603142602,
+          101.75724091682312,
+          79.81793068761735,
+          68.84827557301446
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 2,
+        "row": 2,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          120.0,
+          120.0,
+          139.0,
+          158.0,
+          158.0,
+          139.0
+        ],
+        "yCoordinates": [
+          79.81793068761735,
+          101.75724091682312,
+          112.72689603142602,
+          101.75724091682312,
+          79.81793068761735,
+          68.84827557301446
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 3,
+        "row": 2,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          160.0,
+          160.0,
+          179.0,
+          198.0,
+          198.0,
+          179.0
+        ],
+        "yCoordinates": [
+          79.81793068761735,
+          101.75724091682312,
+          112.72689603142602,
+          101.75724091682312,
+          79.81793068761735,
+          68.84827557301446
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 4,
+        "row": 2,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          200.0,
+          200.0,
+          219.0,
+          238.0,
+          238.0,
+          219.0
+        ],
+        "yCoordinates": [
+          79.81793068761735,
+          101.75724091682312,
+          112.72689603142602,
+          101.75724091682312,
+          79.81793068761735,
+          68.84827557301446
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 5,
+        "row": 2,
+        "height": 7.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          240.0,
+          240.0,
+          259.0,
+          278.0,
+          278.0,
+          259.0
+        ],
+        "yCoordinates": [
+          79.81793068761735,
+          101.75724091682312,
+          112.72689603142602,
+          101.75724091682312,
+          79.81793068761735,
+          68.84827557301446
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 6,
+        "row": 2,
+        "height": 7.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          280.0,
+          280.0,
+          299.0,
+          318.0,
+          318.0,
+          299.0
+        ],
+        "yCoordinates": [
+          79.81793068761735,
+          101.75724091682312,
+          112.72689603142602,
+          101.75724091682312,
+          79.81793068761735,
+          68.84827557301446
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 7,
+        "row": 2,
+        "height": 7.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          320.0,
+          320.0,
+          339.0,
+          358.0,
+          358.0,
+          339.0
+        ],
+        "yCoordinates": [
+          79.81793068761735,
+          101.75724091682312,
+          112.72689603142602,
+          101.75724091682312,
+          79.81793068761735,
+          68.84827557301446
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 8,
+        "row": 2,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          360.0,
+          360.0,
+          379.0,
+          398.0,
+          398.0,
+          379.0
+        ],
+        "yCoordinates": [
+          79.81793068761735,
+          101.75724091682312,
+          112.72689603142602,
+          101.75724091682312,
+          79.81793068761735,
+          68.84827557301446
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 9,
+        "row": 2,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          400.0,
+          400.0,
+          419.0,
+          438.0,
+          438.0,
+          419.0
+        ],
+        "yCoordinates": [
+          79.81793068761735,
+          101.75724091682312,
+          112.72689603142602,
+          101.75724091682312,
+          79.81793068761735,
+          68.84827557301446
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 10,
+        "row": 2,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          440.0,
+          440.0,
+          459.0,
+          478.0,
+          478.0,
+          459.0
+        ],
+        "yCoordinates": [
+          79.81793068761735,
+          101.75724091682312,
+          112.72689603142602,
+          101.75724091682312,
+          79.81793068761735,
+          68.84827557301446
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 11,
+        "row": 2,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          480.0,
+          480.0,
+          499.0,
+          518.0,
+          518.0,
+          499.0
+        ],
+        "yCoordinates": [
+          79.81793068761735,
+          101.75724091682312,
+          112.72689603142602,
+          101.75724091682312,
+          79.81793068761735,
+          68.84827557301446
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 12,
+        "row": 2,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          520.0,
+          520.0,
+          539.0,
+          558.0,
+          558.0,
+          539.0
+        ],
+        "yCoordinates": [
+          79.81793068761735,
+          101.75724091682312,
+          112.72689603142602,
+          101.75724091682312,
+          79.81793068761735,
+          68.84827557301446
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 13,
+        "row": 2,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          19.0,
+          19.0,
+          38.0,
+          57.0,
+          57.0,
+          38.0
+        ],
+        "yCoordinates": [
+          114.72689603142602,
+          136.6662062606318,
+          147.6358613752347,
+          136.6662062606318,
+          114.72689603142602,
+          103.75724091682314
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 0,
+        "row": 3,
+        "height": 7.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          59.0,
+          59.0,
+          78.0,
+          97.0,
+          97.0,
+          78.0
+        ],
+        "yCoordinates": [
+          114.72689603142602,
+          136.6662062606318,
+          147.6358613752347,
+          136.6662062606318,
+          114.72689603142602,
+          103.75724091682314
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 1,
+        "row": 3,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          99.0,
+          99.0,
+          118.0,
+          137.0,
+          137.0,
+          118.0
+        ],
+        "yCoordinates": [
+          114.72689603142602,
+          136.6662062606318,
+          147.6358613752347,
+          136.6662062606318,
+          114.72689603142602,
+          103.75724091682314
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 2,
+        "row": 3,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          139.0,
+          139.0,
+          158.0,
+          177.0,
+          177.0,
+          158.0
+        ],
+        "yCoordinates": [
+          114.72689603142602,
+          136.6662062606318,
+          147.6358613752347,
+          136.6662062606318,
+          114.72689603142602,
+          103.75724091682314
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 3,
+        "row": 3,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          179.0,
+          179.0,
+          198.0,
+          217.0,
+          217.0,
+          198.0
+        ],
+        "yCoordinates": [
+          114.72689603142602,
+          136.6662062606318,
+          147.6358613752347,
+          136.6662062606318,
+          114.72689603142602,
+          103.75724091682314
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 4,
+        "row": 3,
+        "height": 7.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          219.0,
+          219.0,
+          238.0,
+          257.0,
+          257.0,
+          238.0
+        ],
+        "yCoordinates": [
+          114.72689603142602,
+          136.6662062606318,
+          147.6358613752347,
+          136.6662062606318,
+          114.72689603142602,
+          103.75724091682314
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 5,
+        "row": 3,
+        "height": 7.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          259.0,
+          259.0,
+          278.0,
+          297.0,
+          297.0,
+          278.0
+        ],
+        "yCoordinates": [
+          114.72689603142602,
+          136.6662062606318,
+          147.6358613752347,
+          136.6662062606318,
+          114.72689603142602,
+          103.75724091682314
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 6,
+        "row": 3,
+        "height": 7.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          299.0,
+          299.0,
+          318.0,
+          337.0,
+          337.0,
+          318.0
+        ],
+        "yCoordinates": [
+          114.72689603142602,
+          136.6662062606318,
+          147.6358613752347,
+          136.6662062606318,
+          114.72689603142602,
+          103.75724091682314
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 7,
+        "row": 3,
+        "height": 7.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          339.0,
+          339.0,
+          358.0,
+          377.0,
+          377.0,
+          358.0
+        ],
+        "yCoordinates": [
+          114.72689603142602,
+          136.6662062606318,
+          147.6358613752347,
+          136.6662062606318,
+          114.72689603142602,
+          103.75724091682314
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 8,
+        "row": 3,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          379.0,
+          379.0,
+          398.0,
+          417.0,
+          417.0,
+          398.0
+        ],
+        "yCoordinates": [
+          114.72689603142602,
+          136.6662062606318,
+          147.6358613752347,
+          136.6662062606318,
+          114.72689603142602,
+          103.75724091682314
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 9,
+        "row": 3,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          419.0,
+          419.0,
+          438.0,
+          457.0,
+          457.0,
+          438.0
+        ],
+        "yCoordinates": [
+          114.72689603142602,
+          136.6662062606318,
+          147.6358613752347,
+          136.6662062606318,
+          114.72689603142602,
+          103.75724091682314
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 10,
+        "row": 3,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          459.0,
+          459.0,
+          478.0,
+          497.0,
+          497.0,
+          478.0
+        ],
+        "yCoordinates": [
+          114.72689603142602,
+          136.6662062606318,
+          147.6358613752347,
+          136.6662062606318,
+          114.72689603142602,
+          103.75724091682314
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 11,
+        "row": 3,
+        "height": 10.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          499.0,
+          499.0,
+          518.0,
+          537.0,
+          537.0,
+          518.0
+        ],
+        "yCoordinates": [
+          114.72689603142602,
+          136.6662062606318,
+          147.6358613752347,
+          136.6662062606318,
+          114.72689603142602,
+          103.75724091682314
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 12,
+        "row": 3,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          539.0,
+          539.0,
+          558.0,
+          577.0,
+          577.0,
+          558.0
+        ],
+        "yCoordinates": [
+          114.72689603142602,
+          136.6662062606318,
+          147.6358613752347,
+          136.6662062606318,
+          114.72689603142602,
+          103.75724091682314
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 13,
+        "row": 3,
+        "height": 5.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          0.0,
+          0.0,
+          19.0,
+          38.0,
+          38.0,
+          19.0
+        ],
+        "yCoordinates": [
+          149.6358613752347,
+          171.57517160444047,
+          182.54482671904339,
+          171.57517160444047,
+          149.6358613752347,
+          138.6662062606318
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 0,
+        "row": 4,
+        "height": 7.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          40.0,
+          40.0,
+          59.0,
+          78.0,
+          78.0,
+          59.0
+        ],
+        "yCoordinates": [
+          149.6358613752347,
+          171.57517160444047,
+          182.54482671904339,
+          171.57517160444047,
+          149.6358613752347,
+          138.6662062606318
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 1,
+        "row": 4,
+        "height": 7.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          80.0,
+          80.0,
+          99.0,
+          118.0,
+          118.0,
+          99.0
+        ],
+        "yCoordinates": [
+          149.6358613752347,
+          171.57517160444047,
+          182.54482671904339,
+          171.57517160444047,
+          149.6358613752347,
+          138.6662062606318
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 2,
+        "row": 4,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          120.0,
+          120.0,
+          139.0,
+          158.0,
+          158.0,
+          139.0
+        ],
+        "yCoordinates": [
+          149.6358613752347,
+          171.57517160444047,
+          182.54482671904339,
+          171.57517160444047,
+          149.6358613752347,
+          138.6662062606318
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 3,
+        "row": 4,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          160.0,
+          160.0,
+          179.0,
+          198.0,
+          198.0,
+          179.0
+        ],
+        "yCoordinates": [
+          149.6358613752347,
+          171.57517160444047,
+          182.54482671904339,
+          171.57517160444047,
+          149.6358613752347,
+          138.6662062606318
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 4,
+        "row": 4,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          200.0,
+          200.0,
+          219.0,
+          238.0,
+          238.0,
+          219.0
+        ],
+        "yCoordinates": [
+          149.6358613752347,
+          171.57517160444047,
+          182.54482671904339,
+          171.57517160444047,
+          149.6358613752347,
+          138.6662062606318
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 5,
+        "row": 4,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          240.0,
+          240.0,
+          259.0,
+          278.0,
+          278.0,
+          259.0
+        ],
+        "yCoordinates": [
+          149.6358613752347,
+          171.57517160444047,
+          182.54482671904339,
+          171.57517160444047,
+          149.6358613752347,
+          138.6662062606318
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 6,
+        "row": 4,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          280.0,
+          280.0,
+          299.0,
+          318.0,
+          318.0,
+          299.0
+        ],
+        "yCoordinates": [
+          149.6358613752347,
+          171.57517160444047,
+          182.54482671904339,
+          171.57517160444047,
+          149.6358613752347,
+          138.6662062606318
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 7,
+        "row": 4,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          320.0,
+          320.0,
+          339.0,
+          358.0,
+          358.0,
+          339.0
+        ],
+        "yCoordinates": [
+          149.6358613752347,
+          171.57517160444047,
+          182.54482671904339,
+          171.57517160444047,
+          149.6358613752347,
+          138.6662062606318
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 8,
+        "row": 4,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          360.0,
+          360.0,
+          379.0,
+          398.0,
+          398.0,
+          379.0
+        ],
+        "yCoordinates": [
+          149.6358613752347,
+          171.57517160444047,
+          182.54482671904339,
+          171.57517160444047,
+          149.6358613752347,
+          138.6662062606318
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 9,
+        "row": 4,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          400.0,
+          400.0,
+          419.0,
+          438.0,
+          438.0,
+          419.0
+        ],
+        "yCoordinates": [
+          149.6358613752347,
+          171.57517160444047,
+          182.54482671904339,
+          171.57517160444047,
+          149.6358613752347,
+          138.6662062606318
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 10,
+        "row": 4,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          440.0,
+          440.0,
+          459.0,
+          478.0,
+          478.0,
+          459.0
+        ],
+        "yCoordinates": [
+          149.6358613752347,
+          171.57517160444047,
+          182.54482671904339,
+          171.57517160444047,
+          149.6358613752347,
+          138.6662062606318
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 11,
+        "row": 4,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          480.0,
+          480.0,
+          499.0,
+          518.0,
+          518.0,
+          499.0
+        ],
+        "yCoordinates": [
+          149.6358613752347,
+          171.57517160444047,
+          182.54482671904339,
+          171.57517160444047,
+          149.6358613752347,
+          138.6662062606318
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 12,
+        "row": 4,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          520.0,
+          520.0,
+          539.0,
+          558.0,
+          558.0,
+          539.0
+        ],
+        "yCoordinates": [
+          149.6358613752347,
+          171.57517160444047,
+          182.54482671904339,
+          171.57517160444047,
+          149.6358613752347,
+          138.6662062606318
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 13,
+        "row": 4,
+        "height": 5.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          19.0,
+          19.0,
+          38.0,
+          57.0,
+          57.0,
+          38.0
+        ],
+        "yCoordinates": [
+          184.54482671904333,
+          206.4841369482491,
+          217.45379206285202,
+          206.4841369482491,
+          184.54482671904333,
+          173.57517160444044
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 0,
+        "row": 5,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          59.0,
+          59.0,
+          78.0,
+          97.0,
+          97.0,
+          78.0
+        ],
+        "yCoordinates": [
+          184.54482671904333,
+          206.4841369482491,
+          217.45379206285202,
+          206.4841369482491,
+          184.54482671904333,
+          173.57517160444044
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 1,
+        "row": 5,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          99.0,
+          99.0,
+          118.0,
+          137.0,
+          137.0,
+          118.0
+        ],
+        "yCoordinates": [
+          184.54482671904333,
+          206.4841369482491,
+          217.45379206285202,
+          206.4841369482491,
+          184.54482671904333,
+          173.57517160444044
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 2,
+        "row": 5,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          139.0,
+          139.0,
+          158.0,
+          177.0,
+          177.0,
+          158.0
+        ],
+        "yCoordinates": [
+          184.54482671904333,
+          206.4841369482491,
+          217.45379206285202,
+          206.4841369482491,
+          184.54482671904333,
+          173.57517160444044
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 3,
+        "row": 5,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          179.0,
+          179.0,
+          198.0,
+          217.0,
+          217.0,
+          198.0
+        ],
+        "yCoordinates": [
+          184.54482671904333,
+          206.4841369482491,
+          217.45379206285202,
+          206.4841369482491,
+          184.54482671904333,
+          173.57517160444044
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 4,
+        "row": 5,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          219.0,
+          219.0,
+          238.0,
+          257.0,
+          257.0,
+          238.0
+        ],
+        "yCoordinates": [
+          184.54482671904333,
+          206.4841369482491,
+          217.45379206285202,
+          206.4841369482491,
+          184.54482671904333,
+          173.57517160444044
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 5,
+        "row": 5,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          259.0,
+          259.0,
+          278.0,
+          297.0,
+          297.0,
+          278.0
+        ],
+        "yCoordinates": [
+          184.54482671904333,
+          206.4841369482491,
+          217.45379206285202,
+          206.4841369482491,
+          184.54482671904333,
+          173.57517160444044
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 6,
+        "row": 5,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          299.0,
+          299.0,
+          318.0,
+          337.0,
+          337.0,
+          318.0
+        ],
+        "yCoordinates": [
+          184.54482671904333,
+          206.4841369482491,
+          217.45379206285202,
+          206.4841369482491,
+          184.54482671904333,
+          173.57517160444044
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 7,
+        "row": 5,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          339.0,
+          339.0,
+          358.0,
+          377.0,
+          377.0,
+          358.0
+        ],
+        "yCoordinates": [
+          184.54482671904333,
+          206.4841369482491,
+          217.45379206285202,
+          206.4841369482491,
+          184.54482671904333,
+          173.57517160444044
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 8,
+        "row": 5,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          379.0,
+          379.0,
+          398.0,
+          417.0,
+          417.0,
+          398.0
+        ],
+        "yCoordinates": [
+          184.54482671904333,
+          206.4841369482491,
+          217.45379206285202,
+          206.4841369482491,
+          184.54482671904333,
+          173.57517160444044
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 9,
+        "row": 5,
+        "height": 5.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          419.0,
+          419.0,
+          438.0,
+          457.0,
+          457.0,
+          438.0
+        ],
+        "yCoordinates": [
+          184.54482671904333,
+          206.4841369482491,
+          217.45379206285202,
+          206.4841369482491,
+          184.54482671904333,
+          173.57517160444044
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 10,
+        "row": 5,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          459.0,
+          459.0,
+          478.0,
+          497.0,
+          497.0,
+          478.0
+        ],
+        "yCoordinates": [
+          184.54482671904333,
+          206.4841369482491,
+          217.45379206285202,
+          206.4841369482491,
+          184.54482671904333,
+          173.57517160444044
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 11,
+        "row": 5,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          499.0,
+          499.0,
+          518.0,
+          537.0,
+          537.0,
+          518.0
+        ],
+        "yCoordinates": [
+          184.54482671904333,
+          206.4841369482491,
+          217.45379206285202,
+          206.4841369482491,
+          184.54482671904333,
+          173.57517160444044
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 12,
+        "row": 5,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          539.0,
+          539.0,
+          558.0,
+          577.0,
+          577.0,
+          558.0
+        ],
+        "yCoordinates": [
+          184.54482671904333,
+          206.4841369482491,
+          217.45379206285202,
+          206.4841369482491,
+          184.54482671904333,
+          173.57517160444044
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 13,
+        "row": 5,
+        "height": 5.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          0.0,
+          0.0,
+          19.0,
+          38.0,
+          38.0,
+          19.0
+        ],
+        "yCoordinates": [
+          219.45379206285205,
+          241.39310229205782,
+          252.3627574066607,
+          241.39310229205782,
+          219.45379206285205,
+          208.48413694824916
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 0,
+        "row": 6,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          40.0,
+          40.0,
+          59.0,
+          78.0,
+          78.0,
+          59.0
+        ],
+        "yCoordinates": [
+          219.45379206285205,
+          241.39310229205782,
+          252.3627574066607,
+          241.39310229205782,
+          219.45379206285205,
+          208.48413694824916
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 1,
+        "row": 6,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          80.0,
+          80.0,
+          99.0,
+          118.0,
+          118.0,
+          99.0
+        ],
+        "yCoordinates": [
+          219.45379206285205,
+          241.39310229205782,
+          252.3627574066607,
+          241.39310229205782,
+          219.45379206285205,
+          208.48413694824916
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 2,
+        "row": 6,
+        "height": 9.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          120.0,
+          120.0,
+          139.0,
+          158.0,
+          158.0,
+          139.0
+        ],
+        "yCoordinates": [
+          219.45379206285205,
+          241.39310229205782,
+          252.3627574066607,
+          241.39310229205782,
+          219.45379206285205,
+          208.48413694824916
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 3,
+        "row": 6,
+        "height": 9.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          160.0,
+          160.0,
+          179.0,
+          198.0,
+          198.0,
+          179.0
+        ],
+        "yCoordinates": [
+          219.45379206285205,
+          241.39310229205782,
+          252.3627574066607,
+          241.39310229205782,
+          219.45379206285205,
+          208.48413694824916
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 4,
+        "row": 6,
+        "height": 9.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          200.0,
+          200.0,
+          219.0,
+          238.0,
+          238.0,
+          219.0
+        ],
+        "yCoordinates": [
+          219.45379206285205,
+          241.39310229205782,
+          252.3627574066607,
+          241.39310229205782,
+          219.45379206285205,
+          208.48413694824916
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 5,
+        "row": 6,
+        "height": 9.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          240.0,
+          240.0,
+          259.0,
+          278.0,
+          278.0,
+          259.0
+        ],
+        "yCoordinates": [
+          219.45379206285205,
+          241.39310229205782,
+          252.3627574066607,
+          241.39310229205782,
+          219.45379206285205,
+          208.48413694824916
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 6,
+        "row": 6,
+        "height": 9.0,
+        "size": 38.0,
+        "isTilePointy": true
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          280.0,
+          280.0,
+          299.0,
+          318.0,
+          318.0,
+          299.0
+        ],
+        "yCoordinates": [
+          219.45379206285205,
+          241.39310229205782,
+          252.3627574066607,
+          241.39310229205782,
+          219.45379206285205,
+          208.48413694824916
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 7,
+        "row": 6,
+        "height": 9.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          320.0,
+          320.0,
+          339.0,
+          358.0,
+          358.0,
+          339.0
+        ],
+        "yCoordinates": [
+          219.45379206285205,
+          241.39310229205782,
+          252.3627574066607,
+          241.39310229205782,
+          219.45379206285205,
+          208.48413694824916
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 8,
+        "row": 6,
+        "height": 9.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          360.0,
+          360.0,
+          379.0,
+          398.0,
+          398.0,
+          379.0
+        ],
+        "yCoordinates": [
+          219.45379206285205,
+          241.39310229205782,
+          252.3627574066607,
+          241.39310229205782,
+          219.45379206285205,
+          208.48413694824916
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 9,
+        "row": 6,
+        "height": 5.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          400.0,
+          400.0,
+          419.0,
+          438.0,
+          438.0,
+          419.0
+        ],
+        "yCoordinates": [
+          219.45379206285205,
+          241.39310229205782,
+          252.3627574066607,
+          241.39310229205782,
+          219.45379206285205,
+          208.48413694824916
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 10,
+        "row": 6,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          440.0,
+          440.0,
+          459.0,
+          478.0,
+          478.0,
+          459.0
+        ],
+        "yCoordinates": [
+          219.45379206285205,
+          241.39310229205782,
+          252.3627574066607,
+          241.39310229205782,
+          219.45379206285205,
+          208.48413694824916
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 11,
+        "row": 6,
+        "height": 2.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          480.0,
+          480.0,
+          499.0,
+          518.0,
+          518.0,
+          499.0
+        ],
+        "yCoordinates": [
+          219.45379206285205,
+          241.39310229205782,
+          252.3627574066607,
+          241.39310229205782,
+          219.45379206285205,
+          208.48413694824916
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 12,
+        "row": 6,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          520.0,
+          520.0,
+          539.0,
+          558.0,
+          558.0,
+          539.0
+        ],
+        "yCoordinates": [
+          219.45379206285205,
+          241.39310229205782,
+          252.3627574066607,
+          241.39310229205782,
+          219.45379206285205,
+          208.48413694824916
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 13,
+        "row": 6,
+        "height": 5.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          19.0,
+          19.0,
+          38.0,
+          57.0,
+          57.0,
+          38.0
+        ],
+        "yCoordinates": [
+          254.3627574066607,
+          276.3020676358665,
+          287.2717227504694,
+          276.3020676358665,
+          254.3627574066607,
+          243.39310229205782
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 0,
+        "row": 7,
+        "height": 9.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          59.0,
+          59.0,
+          78.0,
+          97.0,
+          97.0,
+          78.0
+        ],
+        "yCoordinates": [
+          254.3627574066607,
+          276.3020676358665,
+          287.2717227504694,
+          276.3020676358665,
+          254.3627574066607,
+          243.39310229205782
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 1,
+        "row": 7,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          99.0,
+          99.0,
+          118.0,
+          137.0,
+          137.0,
+          118.0
+        ],
+        "yCoordinates": [
+          254.3627574066607,
+          276.3020676358665,
+          287.2717227504694,
+          276.3020676358665,
+          254.3627574066607,
+          243.39310229205782
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 2,
+        "row": 7,
+        "height": 9.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          139.0,
+          139.0,
+          158.0,
+          177.0,
+          177.0,
+          158.0
+        ],
+        "yCoordinates": [
+          254.3627574066607,
+          276.3020676358665,
+          287.2717227504694,
+          276.3020676358665,
+          254.3627574066607,
+          243.39310229205782
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 3,
+        "row": 7,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          179.0,
+          179.0,
+          198.0,
+          217.0,
+          217.0,
+          198.0
+        ],
+        "yCoordinates": [
+          254.3627574066607,
+          276.3020676358665,
+          287.2717227504694,
+          276.3020676358665,
+          254.3627574066607,
+          243.39310229205782
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 4,
+        "row": 7,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          219.0,
+          219.0,
+          238.0,
+          257.0,
+          257.0,
+          238.0
+        ],
+        "yCoordinates": [
+          254.3627574066607,
+          276.3020676358665,
+          287.2717227504694,
+          276.3020676358665,
+          254.3627574066607,
+          243.39310229205782
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 5,
+        "row": 7,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          259.0,
+          259.0,
+          278.0,
+          297.0,
+          297.0,
+          278.0
+        ],
+        "yCoordinates": [
+          254.3627574066607,
+          276.3020676358665,
+          287.2717227504694,
+          276.3020676358665,
+          254.3627574066607,
+          243.39310229205782
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 6,
+        "row": 7,
+        "height": 9.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          299.0,
+          299.0,
+          318.0,
+          337.0,
+          337.0,
+          318.0
+        ],
+        "yCoordinates": [
+          254.3627574066607,
+          276.3020676358665,
+          287.2717227504694,
+          276.3020676358665,
+          254.3627574066607,
+          243.39310229205782
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 7,
+        "row": 7,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          339.0,
+          339.0,
+          358.0,
+          377.0,
+          377.0,
+          358.0
+        ],
+        "yCoordinates": [
+          254.3627574066607,
+          276.3020676358665,
+          287.2717227504694,
+          276.3020676358665,
+          254.3627574066607,
+          243.39310229205782
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 8,
+        "row": 7,
+        "height": 5.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          379.0,
+          379.0,
+          398.0,
+          417.0,
+          417.0,
+          398.0
+        ],
+        "yCoordinates": [
+          254.3627574066607,
+          276.3020676358665,
+          287.2717227504694,
+          276.3020676358665,
+          254.3627574066607,
+          243.39310229205782
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 9,
+        "row": 7,
+        "height": 5.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          419.0,
+          419.0,
+          438.0,
+          457.0,
+          457.0,
+          438.0
+        ],
+        "yCoordinates": [
+          254.3627574066607,
+          276.3020676358665,
+          287.2717227504694,
+          276.3020676358665,
+          254.3627574066607,
+          243.39310229205782
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 10,
+        "row": 7,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          459.0,
+          459.0,
+          478.0,
+          497.0,
+          497.0,
+          478.0
+        ],
+        "yCoordinates": [
+          254.3627574066607,
+          276.3020676358665,
+          287.2717227504694,
+          276.3020676358665,
+          254.3627574066607,
+          243.39310229205782
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 11,
+        "row": 7,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          499.0,
+          499.0,
+          518.0,
+          537.0,
+          537.0,
+          518.0
+        ],
+        "yCoordinates": [
+          254.3627574066607,
+          276.3020676358665,
+          287.2717227504694,
+          276.3020676358665,
+          254.3627574066607,
+          243.39310229205782
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 12,
+        "row": 7,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          539.0,
+          539.0,
+          558.0,
+          577.0,
+          577.0,
+          558.0
+        ],
+        "yCoordinates": [
+          254.3627574066607,
+          276.3020676358665,
+          287.2717227504694,
+          276.3020676358665,
+          254.3627574066607,
+          243.39310229205782
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 13,
+        "row": 7,
+        "height": 5.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          0.0,
+          0.0,
+          19.0,
+          38.0,
+          38.0,
+          19.0
+        ],
+        "yCoordinates": [
+          289.2717227504694,
+          311.21103297967517,
+          322.1806880942781,
+          311.21103297967517,
+          289.2717227504694,
+          278.3020676358665
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 0,
+        "row": 8,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          40.0,
+          40.0,
+          59.0,
+          78.0,
+          78.0,
+          59.0
+        ],
+        "yCoordinates": [
+          289.2717227504694,
+          311.21103297967517,
+          322.1806880942781,
+          311.21103297967517,
+          289.2717227504694,
+          278.3020676358665
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 1,
+        "row": 8,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          80.0,
+          80.0,
+          99.0,
+          118.0,
+          118.0,
+          99.0
+        ],
+        "yCoordinates": [
+          289.2717227504694,
+          311.21103297967517,
+          322.1806880942781,
+          311.21103297967517,
+          289.2717227504694,
+          278.3020676358665
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 2,
+        "row": 8,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          120.0,
+          120.0,
+          139.0,
+          158.0,
+          158.0,
+          139.0
+        ],
+        "yCoordinates": [
+          289.2717227504694,
+          311.21103297967517,
+          322.1806880942781,
+          311.21103297967517,
+          289.2717227504694,
+          278.3020676358665
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 3,
+        "row": 8,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          160.0,
+          160.0,
+          179.0,
+          198.0,
+          198.0,
+          179.0
+        ],
+        "yCoordinates": [
+          289.2717227504694,
+          311.21103297967517,
+          322.1806880942781,
+          311.21103297967517,
+          289.2717227504694,
+          278.3020676358665
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 4,
+        "row": 8,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          200.0,
+          200.0,
+          219.0,
+          238.0,
+          238.0,
+          219.0
+        ],
+        "yCoordinates": [
+          289.2717227504694,
+          311.21103297967517,
+          322.1806880942781,
+          311.21103297967517,
+          289.2717227504694,
+          278.3020676358665
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 5,
+        "row": 8,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          240.0,
+          240.0,
+          259.0,
+          278.0,
+          278.0,
+          259.0
+        ],
+        "yCoordinates": [
+          289.2717227504694,
+          311.21103297967517,
+          322.1806880942781,
+          311.21103297967517,
+          289.2717227504694,
+          278.3020676358665
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 6,
+        "row": 8,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          280.0,
+          280.0,
+          299.0,
+          318.0,
+          318.0,
+          299.0
+        ],
+        "yCoordinates": [
+          289.2717227504694,
+          311.21103297967517,
+          322.1806880942781,
+          311.21103297967517,
+          289.2717227504694,
+          278.3020676358665
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 7,
+        "row": 8,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          320.0,
+          320.0,
+          339.0,
+          358.0,
+          358.0,
+          339.0
+        ],
+        "yCoordinates": [
+          289.2717227504694,
+          311.21103297967517,
+          322.1806880942781,
+          311.21103297967517,
+          289.2717227504694,
+          278.3020676358665
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 8,
+        "row": 8,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          360.0,
+          360.0,
+          379.0,
+          398.0,
+          398.0,
+          379.0
+        ],
+        "yCoordinates": [
+          289.2717227504694,
+          311.21103297967517,
+          322.1806880942781,
+          311.21103297967517,
+          289.2717227504694,
+          278.3020676358665
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 9,
+        "row": 8,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          400.0,
+          400.0,
+          419.0,
+          438.0,
+          438.0,
+          419.0
+        ],
+        "yCoordinates": [
+          289.2717227504694,
+          311.21103297967517,
+          322.1806880942781,
+          311.21103297967517,
+          289.2717227504694,
+          278.3020676358665
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 10,
+        "row": 8,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          440.0,
+          440.0,
+          459.0,
+          478.0,
+          478.0,
+          459.0
+        ],
+        "yCoordinates": [
+          289.2717227504694,
+          311.21103297967517,
+          322.1806880942781,
+          311.21103297967517,
+          289.2717227504694,
+          278.3020676358665
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 11,
+        "row": 8,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          480.0,
+          480.0,
+          499.0,
+          518.0,
+          518.0,
+          499.0
+        ],
+        "yCoordinates": [
+          289.2717227504694,
+          311.21103297967517,
+          322.1806880942781,
+          311.21103297967517,
+          289.2717227504694,
+          278.3020676358665
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 12,
+        "row": 8,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          520.0,
+          520.0,
+          539.0,
+          558.0,
+          558.0,
+          539.0
+        ],
+        "yCoordinates": [
+          289.2717227504694,
+          311.21103297967517,
+          322.1806880942781,
+          311.21103297967517,
+          289.2717227504694,
+          278.3020676358665
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 13,
+        "row": 8,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          19.0,
+          19.0,
+          38.0,
+          57.0,
+          57.0,
+          38.0
+        ],
+        "yCoordinates": [
+          324.180688094278,
+          346.1199983234838,
+          357.0896534380867,
+          346.1199983234838,
+          324.180688094278,
+          313.2110329796751
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 0,
+        "row": 9,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          59.0,
+          59.0,
+          78.0,
+          97.0,
+          97.0,
+          78.0
+        ],
+        "yCoordinates": [
+          324.180688094278,
+          346.1199983234838,
+          357.0896534380867,
+          346.1199983234838,
+          324.180688094278,
+          313.2110329796751
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 1,
+        "row": 9,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          99.0,
+          99.0,
+          118.0,
+          137.0,
+          137.0,
+          118.0
+        ],
+        "yCoordinates": [
+          324.180688094278,
+          346.1199983234838,
+          357.0896534380867,
+          346.1199983234838,
+          324.180688094278,
+          313.2110329796751
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 2,
+        "row": 9,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          139.0,
+          139.0,
+          158.0,
+          177.0,
+          177.0,
+          158.0
+        ],
+        "yCoordinates": [
+          324.180688094278,
+          346.1199983234838,
+          357.0896534380867,
+          346.1199983234838,
+          324.180688094278,
+          313.2110329796751
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 3,
+        "row": 9,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          179.0,
+          179.0,
+          198.0,
+          217.0,
+          217.0,
+          198.0
+        ],
+        "yCoordinates": [
+          324.180688094278,
+          346.1199983234838,
+          357.0896534380867,
+          346.1199983234838,
+          324.180688094278,
+          313.2110329796751
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 4,
+        "row": 9,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          219.0,
+          219.0,
+          238.0,
+          257.0,
+          257.0,
+          238.0
+        ],
+        "yCoordinates": [
+          324.180688094278,
+          346.1199983234838,
+          357.0896534380867,
+          346.1199983234838,
+          324.180688094278,
+          313.2110329796751
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 5,
+        "row": 9,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          259.0,
+          259.0,
+          278.0,
+          297.0,
+          297.0,
+          278.0
+        ],
+        "yCoordinates": [
+          324.180688094278,
+          346.1199983234838,
+          357.0896534380867,
+          346.1199983234838,
+          324.180688094278,
+          313.2110329796751
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 6,
+        "row": 9,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          299.0,
+          299.0,
+          318.0,
+          337.0,
+          337.0,
+          318.0
+        ],
+        "yCoordinates": [
+          324.180688094278,
+          346.1199983234838,
+          357.0896534380867,
+          346.1199983234838,
+          324.180688094278,
+          313.2110329796751
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 7,
+        "row": 9,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          339.0,
+          339.0,
+          358.0,
+          377.0,
+          377.0,
+          358.0
+        ],
+        "yCoordinates": [
+          324.180688094278,
+          346.1199983234838,
+          357.0896534380867,
+          346.1199983234838,
+          324.180688094278,
+          313.2110329796751
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 8,
+        "row": 9,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          379.0,
+          379.0,
+          398.0,
+          417.0,
+          417.0,
+          398.0
+        ],
+        "yCoordinates": [
+          324.180688094278,
+          346.1199983234838,
+          357.0896534380867,
+          346.1199983234838,
+          324.180688094278,
+          313.2110329796751
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 9,
+        "row": 9,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          419.0,
+          419.0,
+          438.0,
+          457.0,
+          457.0,
+          438.0
+        ],
+        "yCoordinates": [
+          324.180688094278,
+          346.1199983234838,
+          357.0896534380867,
+          346.1199983234838,
+          324.180688094278,
+          313.2110329796751
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 10,
+        "row": 9,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          459.0,
+          459.0,
+          478.0,
+          497.0,
+          497.0,
+          478.0
+        ],
+        "yCoordinates": [
+          324.180688094278,
+          346.1199983234838,
+          357.0896534380867,
+          346.1199983234838,
+          324.180688094278,
+          313.2110329796751
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 11,
+        "row": 9,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          499.0,
+          499.0,
+          518.0,
+          537.0,
+          537.0,
+          518.0
+        ],
+        "yCoordinates": [
+          324.180688094278,
+          346.1199983234838,
+          357.0896534380867,
+          346.1199983234838,
+          324.180688094278,
+          313.2110329796751
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 12,
+        "row": 9,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          539.0,
+          539.0,
+          558.0,
+          577.0,
+          577.0,
+          558.0
+        ],
+        "yCoordinates": [
+          324.180688094278,
+          346.1199983234838,
+          357.0896534380867,
+          346.1199983234838,
+          324.180688094278,
+          313.2110329796751
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 13,
+        "row": 9,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          0.0,
+          0.0,
+          19.0,
+          38.0,
+          38.0,
+          19.0
+        ],
+        "yCoordinates": [
+          359.08965343808666,
+          381.02896366729243,
+          391.99861878189535,
+          381.02896366729243,
+          359.08965343808666,
+          348.11999832348374
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 0,
+        "row": 10,
+        "height": 2.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          40.0,
+          40.0,
+          59.0,
+          78.0,
+          78.0,
+          59.0
+        ],
+        "yCoordinates": [
+          359.08965343808666,
+          381.02896366729243,
+          391.99861878189535,
+          381.02896366729243,
+          359.08965343808666,
+          348.11999832348374
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 1,
+        "row": 10,
+        "height": 2.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          80.0,
+          80.0,
+          99.0,
+          118.0,
+          118.0,
+          99.0
+        ],
+        "yCoordinates": [
+          359.08965343808666,
+          381.02896366729243,
+          391.99861878189535,
+          381.02896366729243,
+          359.08965343808666,
+          348.11999832348374
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 2,
+        "row": 10,
+        "height": 2.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          120.0,
+          120.0,
+          139.0,
+          158.0,
+          158.0,
+          139.0
+        ],
+        "yCoordinates": [
+          359.08965343808666,
+          381.02896366729243,
+          391.99861878189535,
+          381.02896366729243,
+          359.08965343808666,
+          348.11999832348374
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 3,
+        "row": 10,
+        "height": 2.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          160.0,
+          160.0,
+          179.0,
+          198.0,
+          198.0,
+          179.0
+        ],
+        "yCoordinates": [
+          359.08965343808666,
+          381.02896366729243,
+          391.99861878189535,
+          381.02896366729243,
+          359.08965343808666,
+          348.11999832348374
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 4,
+        "row": 10,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          200.0,
+          200.0,
+          219.0,
+          238.0,
+          238.0,
+          219.0
+        ],
+        "yCoordinates": [
+          359.08965343808666,
+          381.02896366729243,
+          391.99861878189535,
+          381.02896366729243,
+          359.08965343808666,
+          348.11999832348374
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 5,
+        "row": 10,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          240.0,
+          240.0,
+          259.0,
+          278.0,
+          278.0,
+          259.0
+        ],
+        "yCoordinates": [
+          359.08965343808666,
+          381.02896366729243,
+          391.99861878189535,
+          381.02896366729243,
+          359.08965343808666,
+          348.11999832348374
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 6,
+        "row": 10,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          280.0,
+          280.0,
+          299.0,
+          318.0,
+          318.0,
+          299.0
+        ],
+        "yCoordinates": [
+          359.08965343808666,
+          381.02896366729243,
+          391.99861878189535,
+          381.02896366729243,
+          359.08965343808666,
+          348.11999832348374
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 7,
+        "row": 10,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          320.0,
+          320.0,
+          339.0,
+          358.0,
+          358.0,
+          339.0
+        ],
+        "yCoordinates": [
+          359.08965343808666,
+          381.02896366729243,
+          391.99861878189535,
+          381.02896366729243,
+          359.08965343808666,
+          348.11999832348374
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 8,
+        "row": 10,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          360.0,
+          360.0,
+          379.0,
+          398.0,
+          398.0,
+          379.0
+        ],
+        "yCoordinates": [
+          359.08965343808666,
+          381.02896366729243,
+          391.99861878189535,
+          381.02896366729243,
+          359.08965343808666,
+          348.11999832348374
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 9,
+        "row": 10,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          400.0,
+          400.0,
+          419.0,
+          438.0,
+          438.0,
+          419.0
+        ],
+        "yCoordinates": [
+          359.08965343808666,
+          381.02896366729243,
+          391.99861878189535,
+          381.02896366729243,
+          359.08965343808666,
+          348.11999832348374
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 10,
+        "row": 10,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          440.0,
+          440.0,
+          459.0,
+          478.0,
+          478.0,
+          459.0
+        ],
+        "yCoordinates": [
+          359.08965343808666,
+          381.02896366729243,
+          391.99861878189535,
+          381.02896366729243,
+          359.08965343808666,
+          348.11999832348374
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 11,
+        "row": 10,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          480.0,
+          480.0,
+          499.0,
+          518.0,
+          518.0,
+          499.0
+        ],
+        "yCoordinates": [
+          359.08965343808666,
+          381.02896366729243,
+          391.99861878189535,
+          381.02896366729243,
+          359.08965343808666,
+          348.11999832348374
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 12,
+        "row": 10,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          520.0,
+          520.0,
+          539.0,
+          558.0,
+          558.0,
+          539.0
+        ],
+        "yCoordinates": [
+          359.08965343808666,
+          381.02896366729243,
+          391.99861878189535,
+          381.02896366729243,
+          359.08965343808666,
+          348.11999832348374
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 13,
+        "row": 10,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          19.0,
+          19.0,
+          38.0,
+          57.0,
+          57.0,
+          38.0
+        ],
+        "yCoordinates": [
+          393.9986187818954,
+          415.9379290111012,
+          426.9075841257041,
+          415.9379290111012,
+          393.9986187818954,
+          383.0289636672925
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 0,
+        "row": 11,
+        "height": 1.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          59.0,
+          59.0,
+          78.0,
+          97.0,
+          97.0,
+          78.0
+        ],
+        "yCoordinates": [
+          393.9986187818954,
+          415.9379290111012,
+          426.9075841257041,
+          415.9379290111012,
+          393.9986187818954,
+          383.0289636672925
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 1,
+        "row": 11,
+        "height": 1.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          99.0,
+          99.0,
+          118.0,
+          137.0,
+          137.0,
+          118.0
+        ],
+        "yCoordinates": [
+          393.9986187818954,
+          415.9379290111012,
+          426.9075841257041,
+          415.9379290111012,
+          393.9986187818954,
+          383.0289636672925
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 2,
+        "row": 11,
+        "height": 1.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          139.0,
+          139.0,
+          158.0,
+          177.0,
+          177.0,
+          158.0
+        ],
+        "yCoordinates": [
+          393.9986187818954,
+          415.9379290111012,
+          426.9075841257041,
+          415.9379290111012,
+          393.9986187818954,
+          383.0289636672925
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 3,
+        "row": 11,
+        "height": 2.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          179.0,
+          179.0,
+          198.0,
+          217.0,
+          217.0,
+          198.0
+        ],
+        "yCoordinates": [
+          393.9986187818954,
+          415.9379290111012,
+          426.9075841257041,
+          415.9379290111012,
+          393.9986187818954,
+          383.0289636672925
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 4,
+        "row": 11,
+        "height": 2.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          219.0,
+          219.0,
+          238.0,
+          257.0,
+          257.0,
+          238.0
+        ],
+        "yCoordinates": [
+          393.9986187818954,
+          415.9379290111012,
+          426.9075841257041,
+          415.9379290111012,
+          393.9986187818954,
+          383.0289636672925
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 5,
+        "row": 11,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          259.0,
+          259.0,
+          278.0,
+          297.0,
+          297.0,
+          278.0
+        ],
+        "yCoordinates": [
+          393.9986187818954,
+          415.9379290111012,
+          426.9075841257041,
+          415.9379290111012,
+          393.9986187818954,
+          383.0289636672925
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 6,
+        "row": 11,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          299.0,
+          299.0,
+          318.0,
+          337.0,
+          337.0,
+          318.0
+        ],
+        "yCoordinates": [
+          393.9986187818954,
+          415.9379290111012,
+          426.9075841257041,
+          415.9379290111012,
+          393.9986187818954,
+          383.0289636672925
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 7,
+        "row": 11,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          339.0,
+          339.0,
+          358.0,
+          377.0,
+          377.0,
+          358.0
+        ],
+        "yCoordinates": [
+          393.9986187818954,
+          415.9379290111012,
+          426.9075841257041,
+          415.9379290111012,
+          393.9986187818954,
+          383.0289636672925
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 8,
+        "row": 11,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          379.0,
+          379.0,
+          398.0,
+          417.0,
+          417.0,
+          398.0
+        ],
+        "yCoordinates": [
+          393.9986187818954,
+          415.9379290111012,
+          426.9075841257041,
+          415.9379290111012,
+          393.9986187818954,
+          383.0289636672925
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 9,
+        "row": 11,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          419.0,
+          419.0,
+          438.0,
+          457.0,
+          457.0,
+          438.0
+        ],
+        "yCoordinates": [
+          393.9986187818954,
+          415.9379290111012,
+          426.9075841257041,
+          415.9379290111012,
+          393.9986187818954,
+          383.0289636672925
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 10,
+        "row": 11,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          459.0,
+          459.0,
+          478.0,
+          497.0,
+          497.0,
+          478.0
+        ],
+        "yCoordinates": [
+          393.9986187818954,
+          415.9379290111012,
+          426.9075841257041,
+          415.9379290111012,
+          393.9986187818954,
+          383.0289636672925
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 11,
+        "row": 11,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          499.0,
+          499.0,
+          518.0,
+          537.0,
+          537.0,
+          518.0
+        ],
+        "yCoordinates": [
+          393.9986187818954,
+          415.9379290111012,
+          426.9075841257041,
+          415.9379290111012,
+          393.9986187818954,
+          383.0289636672925
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 12,
+        "row": 11,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          539.0,
+          539.0,
+          558.0,
+          577.0,
+          577.0,
+          558.0
+        ],
+        "yCoordinates": [
+          393.9986187818954,
+          415.9379290111012,
+          426.9075841257041,
+          415.9379290111012,
+          393.9986187818954,
+          383.0289636672925
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 13,
+        "row": 11,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          0.0,
+          0.0,
+          19.0,
+          38.0,
+          38.0,
+          19.0
+        ],
+        "yCoordinates": [
+          428.9075841257041,
+          450.84689435490986,
+          461.8165494695128,
+          450.84689435490986,
+          428.9075841257041,
+          417.9379290111012
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 0,
+        "row": 12,
+        "height": 1.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          40.0,
+          40.0,
+          59.0,
+          78.0,
+          78.0,
+          59.0
+        ],
+        "yCoordinates": [
+          428.9075841257041,
+          450.84689435490986,
+          461.8165494695128,
+          450.84689435490986,
+          428.9075841257041,
+          417.9379290111012
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 1,
+        "row": 12,
+        "height": 1.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          80.0,
+          80.0,
+          99.0,
+          118.0,
+          118.0,
+          99.0
+        ],
+        "yCoordinates": [
+          428.9075841257041,
+          450.84689435490986,
+          461.8165494695128,
+          450.84689435490986,
+          428.9075841257041,
+          417.9379290111012
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 2,
+        "row": 12,
+        "height": 1.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          120.0,
+          120.0,
+          139.0,
+          158.0,
+          158.0,
+          139.0
+        ],
+        "yCoordinates": [
+          428.9075841257041,
+          450.84689435490986,
+          461.8165494695128,
+          450.84689435490986,
+          428.9075841257041,
+          417.9379290111012
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 3,
+        "row": 12,
+        "height": 1.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          160.0,
+          160.0,
+          179.0,
+          198.0,
+          198.0,
+          179.0
+        ],
+        "yCoordinates": [
+          428.9075841257041,
+          450.84689435490986,
+          461.8165494695128,
+          450.84689435490986,
+          428.9075841257041,
+          417.9379290111012
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 4,
+        "row": 12,
+        "height": 2.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          200.0,
+          200.0,
+          219.0,
+          238.0,
+          238.0,
+          219.0
+        ],
+        "yCoordinates": [
+          428.9075841257041,
+          450.84689435490986,
+          461.8165494695128,
+          450.84689435490986,
+          428.9075841257041,
+          417.9379290111012
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 5,
+        "row": 12,
+        "height": 2.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          240.0,
+          240.0,
+          259.0,
+          278.0,
+          278.0,
+          259.0
+        ],
+        "yCoordinates": [
+          428.9075841257041,
+          450.84689435490986,
+          461.8165494695128,
+          450.84689435490986,
+          428.9075841257041,
+          417.9379290111012
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 6,
+        "row": 12,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          280.0,
+          280.0,
+          299.0,
+          318.0,
+          318.0,
+          299.0
+        ],
+        "yCoordinates": [
+          428.9075841257041,
+          450.84689435490986,
+          461.8165494695128,
+          450.84689435490986,
+          428.9075841257041,
+          417.9379290111012
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 7,
+        "row": 12,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          320.0,
+          320.0,
+          339.0,
+          358.0,
+          358.0,
+          339.0
+        ],
+        "yCoordinates": [
+          428.9075841257041,
+          450.84689435490986,
+          461.8165494695128,
+          450.84689435490986,
+          428.9075841257041,
+          417.9379290111012
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 8,
+        "row": 12,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          360.0,
+          360.0,
+          379.0,
+          398.0,
+          398.0,
+          379.0
+        ],
+        "yCoordinates": [
+          428.9075841257041,
+          450.84689435490986,
+          461.8165494695128,
+          450.84689435490986,
+          428.9075841257041,
+          417.9379290111012
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 9,
+        "row": 12,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          400.0,
+          400.0,
+          419.0,
+          438.0,
+          438.0,
+          419.0
+        ],
+        "yCoordinates": [
+          428.9075841257041,
+          450.84689435490986,
+          461.8165494695128,
+          450.84689435490986,
+          428.9075841257041,
+          417.9379290111012
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 10,
+        "row": 12,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          440.0,
+          440.0,
+          459.0,
+          478.0,
+          478.0,
+          459.0
+        ],
+        "yCoordinates": [
+          428.9075841257041,
+          450.84689435490986,
+          461.8165494695128,
+          450.84689435490986,
+          428.9075841257041,
+          417.9379290111012
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 11,
+        "row": 12,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          480.0,
+          480.0,
+          499.0,
+          518.0,
+          518.0,
+          499.0
+        ],
+        "yCoordinates": [
+          428.9075841257041,
+          450.84689435490986,
+          461.8165494695128,
+          450.84689435490986,
+          428.9075841257041,
+          417.9379290111012
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 12,
+        "row": 12,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          520.0,
+          520.0,
+          539.0,
+          558.0,
+          558.0,
+          539.0
+        ],
+        "yCoordinates": [
+          428.9075841257041,
+          450.84689435490986,
+          461.8165494695128,
+          450.84689435490986,
+          428.9075841257041,
+          417.9379290111012
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 13,
+        "row": 12,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          19.0,
+          19.0,
+          38.0,
+          57.0,
+          57.0,
+          38.0
+        ],
+        "yCoordinates": [
+          463.8165494695128,
+          485.75585969871855,
+          496.72551481332147,
+          485.75585969871855,
+          463.8165494695128,
+          452.84689435490986
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 0,
+        "row": 13,
+        "height": 1.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          59.0,
+          59.0,
+          78.0,
+          97.0,
+          97.0,
+          78.0
+        ],
+        "yCoordinates": [
+          463.8165494695128,
+          485.75585969871855,
+          496.72551481332147,
+          485.75585969871855,
+          463.8165494695128,
+          452.84689435490986
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 1,
+        "row": 13,
+        "height": 1.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          99.0,
+          99.0,
+          118.0,
+          137.0,
+          137.0,
+          118.0
+        ],
+        "yCoordinates": [
+          463.8165494695128,
+          485.75585969871855,
+          496.72551481332147,
+          485.75585969871855,
+          463.8165494695128,
+          452.84689435490986
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 2,
+        "row": 13,
+        "height": 1.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          139.0,
+          139.0,
+          158.0,
+          177.0,
+          177.0,
+          158.0
+        ],
+        "yCoordinates": [
+          463.8165494695128,
+          485.75585969871855,
+          496.72551481332147,
+          485.75585969871855,
+          463.8165494695128,
+          452.84689435490986
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 3,
+        "row": 13,
+        "height": 2.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          179.0,
+          179.0,
+          198.0,
+          217.0,
+          217.0,
+          198.0
+        ],
+        "yCoordinates": [
+          463.8165494695128,
+          485.75585969871855,
+          496.72551481332147,
+          485.75585969871855,
+          463.8165494695128,
+          452.84689435490986
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 4,
+        "row": 13,
+        "height": 2.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          219.0,
+          219.0,
+          238.0,
+          257.0,
+          257.0,
+          238.0
+        ],
+        "yCoordinates": [
+          463.8165494695128,
+          485.75585969871855,
+          496.72551481332147,
+          485.75585969871855,
+          463.8165494695128,
+          452.84689435490986
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 5,
+        "row": 13,
+        "height": 2.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          259.0,
+          259.0,
+          278.0,
+          297.0,
+          297.0,
+          278.0
+        ],
+        "yCoordinates": [
+          463.8165494695128,
+          485.75585969871855,
+          496.72551481332147,
+          485.75585969871855,
+          463.8165494695128,
+          452.84689435490986
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 6,
+        "row": 13,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          299.0,
+          299.0,
+          318.0,
+          337.0,
+          337.0,
+          318.0
+        ],
+        "yCoordinates": [
+          463.8165494695128,
+          485.75585969871855,
+          496.72551481332147,
+          485.75585969871855,
+          463.8165494695128,
+          452.84689435490986
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 7,
+        "row": 13,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          339.0,
+          339.0,
+          358.0,
+          377.0,
+          377.0,
+          358.0
+        ],
+        "yCoordinates": [
+          463.8165494695128,
+          485.75585969871855,
+          496.72551481332147,
+          485.75585969871855,
+          463.8165494695128,
+          452.84689435490986
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 8,
+        "row": 13,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          379.0,
+          379.0,
+          398.0,
+          417.0,
+          417.0,
+          398.0
+        ],
+        "yCoordinates": [
+          463.8165494695128,
+          485.75585969871855,
+          496.72551481332147,
+          485.75585969871855,
+          463.8165494695128,
+          452.84689435490986
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 9,
+        "row": 13,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          419.0,
+          419.0,
+          438.0,
+          457.0,
+          457.0,
+          438.0
+        ],
+        "yCoordinates": [
+          463.8165494695128,
+          485.75585969871855,
+          496.72551481332147,
+          485.75585969871855,
+          463.8165494695128,
+          452.84689435490986
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 10,
+        "row": 13,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          459.0,
+          459.0,
+          478.0,
+          497.0,
+          497.0,
+          478.0
+        ],
+        "yCoordinates": [
+          463.8165494695128,
+          485.75585969871855,
+          496.72551481332147,
+          485.75585969871855,
+          463.8165494695128,
+          452.84689435490986
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 11,
+        "row": 13,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          499.0,
+          499.0,
+          518.0,
+          537.0,
+          537.0,
+          518.0
+        ],
+        "yCoordinates": [
+          463.8165494695128,
+          485.75585969871855,
+          496.72551481332147,
+          485.75585969871855,
+          463.8165494695128,
+          452.84689435490986
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 12,
+        "row": 13,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          539.0,
+          539.0,
+          558.0,
+          577.0,
+          577.0,
+          558.0
+        ],
+        "yCoordinates": [
+          463.8165494695128,
+          485.75585969871855,
+          496.72551481332147,
+          485.75585969871855,
+          463.8165494695128,
+          452.84689435490986
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 13,
+        "row": 13,
+        "height": 9.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          0.0,
+          0.0,
+          19.0,
+          38.0,
+          38.0,
+          19.0
+        ],
+        "yCoordinates": [
+          498.7255148133214,
+          520.6648250425271,
+          531.6344801571302,
+          520.6648250425271,
+          498.7255148133214,
+          487.7558596987185
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 0,
+        "row": 14,
+        "height": 1.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          40.0,
+          40.0,
+          59.0,
+          78.0,
+          78.0,
+          59.0
+        ],
+        "yCoordinates": [
+          498.7255148133214,
+          520.6648250425271,
+          531.6344801571302,
+          520.6648250425271,
+          498.7255148133214,
+          487.7558596987185
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 1,
+        "row": 14,
+        "height": 1.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          80.0,
+          80.0,
+          99.0,
+          118.0,
+          118.0,
+          99.0
+        ],
+        "yCoordinates": [
+          498.7255148133214,
+          520.6648250425271,
+          531.6344801571302,
+          520.6648250425271,
+          498.7255148133214,
+          487.7558596987185
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 2,
+        "row": 14,
+        "height": 1.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          120.0,
+          120.0,
+          139.0,
+          158.0,
+          158.0,
+          139.0
+        ],
+        "yCoordinates": [
+          498.7255148133214,
+          520.6648250425271,
+          531.6344801571302,
+          520.6648250425271,
+          498.7255148133214,
+          487.7558596987185
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 3,
+        "row": 14,
+        "height": 1.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          160.0,
+          160.0,
+          179.0,
+          198.0,
+          198.0,
+          179.0
+        ],
+        "yCoordinates": [
+          498.7255148133214,
+          520.6648250425271,
+          531.6344801571302,
+          520.6648250425271,
+          498.7255148133214,
+          487.7558596987185
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 4,
+        "row": 14,
+        "height": 2.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          200.0,
+          200.0,
+          219.0,
+          238.0,
+          238.0,
+          219.0
+        ],
+        "yCoordinates": [
+          498.7255148133214,
+          520.6648250425271,
+          531.6344801571302,
+          520.6648250425271,
+          498.7255148133214,
+          487.7558596987185
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 5,
+        "row": 14,
+        "height": 2.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          240.0,
+          240.0,
+          259.0,
+          278.0,
+          278.0,
+          259.0
+        ],
+        "yCoordinates": [
+          498.7255148133214,
+          520.6648250425271,
+          531.6344801571302,
+          520.6648250425271,
+          498.7255148133214,
+          487.7558596987185
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 6,
+        "row": 14,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          280.0,
+          280.0,
+          299.0,
+          318.0,
+          318.0,
+          299.0
+        ],
+        "yCoordinates": [
+          498.7255148133214,
+          520.6648250425271,
+          531.6344801571302,
+          520.6648250425271,
+          498.7255148133214,
+          487.7558596987185
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 7,
+        "row": 14,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          320.0,
+          320.0,
+          339.0,
+          358.0,
+          358.0,
+          339.0
+        ],
+        "yCoordinates": [
+          498.7255148133214,
+          520.6648250425271,
+          531.6344801571302,
+          520.6648250425271,
+          498.7255148133214,
+          487.7558596987185
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 8,
+        "row": 14,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          360.0,
+          360.0,
+          379.0,
+          398.0,
+          398.0,
+          379.0
+        ],
+        "yCoordinates": [
+          498.7255148133214,
+          520.6648250425271,
+          531.6344801571302,
+          520.6648250425271,
+          498.7255148133214,
+          487.7558596987185
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 9,
+        "row": 14,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          400.0,
+          400.0,
+          419.0,
+          438.0,
+          438.0,
+          419.0
+        ],
+        "yCoordinates": [
+          498.7255148133214,
+          520.6648250425271,
+          531.6344801571302,
+          520.6648250425271,
+          498.7255148133214,
+          487.7558596987185
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 10,
+        "row": 14,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          440.0,
+          440.0,
+          459.0,
+          478.0,
+          478.0,
+          459.0
+        ],
+        "yCoordinates": [
+          498.7255148133214,
+          520.6648250425271,
+          531.6344801571302,
+          520.6648250425271,
+          498.7255148133214,
+          487.7558596987185
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 11,
+        "row": 14,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          480.0,
+          480.0,
+          499.0,
+          518.0,
+          518.0,
+          499.0
+        ],
+        "yCoordinates": [
+          498.7255148133214,
+          520.6648250425271,
+          531.6344801571302,
+          520.6648250425271,
+          498.7255148133214,
+          487.7558596987185
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 12,
+        "row": 14,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.HexagonTile",
+      "data": {
+        "xCoordinates": [
+          520.0,
+          520.0,
+          539.0,
+          558.0,
+          558.0,
+          539.0
+        ],
+        "yCoordinates": [
+          498.7255148133214,
+          520.6648250425271,
+          531.6344801571302,
+          520.6648250425271,
+          498.7255148133214,
+          487.7558596987185
+        ],
+        "TILE_WIDTH": 38.0,
+        "TILE_HEIGHT": 43.87862045841156,
+        "sideRadius": 19.0,
+        "yStartOffset": 10,
+        "cornerRadius": 21.93931022920578,
+        "column": 13,
+        "row": 14,
+        "height": 9.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    }
+  ],
+  "numRows": 15,
+  "numColumns": 14
+}

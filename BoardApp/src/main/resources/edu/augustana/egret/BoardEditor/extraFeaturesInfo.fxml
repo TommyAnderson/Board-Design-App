@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="419.0" prefWidth="631.0" style="-fx-border-width: 2; -fx-border-color: black;" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <AnchorPane layoutX="2.0" layoutY="3.0" prefHeight="510.0" prefWidth="626.0">
+         <children>
+            <Text layoutX="224.0" layoutY="36.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Extra Features Info">
+               <font>
+                  <Font name="System Bold" size="20.0" />
+               </font>
+            </Text>
+            <Text layoutX="102.0" layoutY="67.0" strokeType="OUTSIDE" strokeWidth="0.0" text="If the user right clicks on the canvas, a menu will appear with options to modify individual or groups of tiles." textAlignment="CENTER" wrappingWidth="436.23046875" />
+            <Text layoutX="15.0" layoutY="127.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Add Row:">
+               <font>
+                  <Font name="System Bold" size="15.0" />
+               </font>
+            </Text>
+            <Text layoutX="89.0" layoutY="127.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Adds a row with every tile at a height of one immediately after the row clicked on." />
+            <Text layoutX="15.0" layoutY="195.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Delete Row:">
+               <font>
+                  <Font name="System Bold" size="15.0" />
+               </font>
+            </Text>
+            <Text layoutX="106.0" layoutY="195.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Deletes the row that has been right clicked on." />
+            <Text layoutX="15.0" layoutY="230.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Delete Column:">
+               <font>
+                  <Font name="System Bold" size="15.0" />
+               </font>
+            </Text>
+            <Text layoutX="130.0" layoutY="230.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Deletes the column that has been right clicked on." />
+            <Text layoutX="15.0" layoutY="264.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Make Mountain:">
+               <font>
+                  <Font name="System Bold" size="15.0" />
+               </font>
+            </Text>
+            <Text layoutX="137.0" layoutY="264.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Generates a mountain with the center of it being the tile right clicked on." />
+            <Text layoutX="15.0" layoutY="298.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Make Valley:">
+               <font>
+                  <Font name="System Bold" size="15.0" />
+               </font>
+            </Text>
+            <Text layoutX="111.0" layoutY="298.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Generates a valley with the center of it being the tile right clicked on." />
+            <Text layoutX="15.0" layoutY="332.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Toggle Pointy:">
+               <font>
+                  <Font name="System Bold" size="15.0" />
+               </font>
+            </Text>
+            <Text layoutX="114.0" layoutY="332.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Makes the tile right clicked on pointy." />
+            <Text layoutX="15.0" layoutY="415.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Reset Board to Original:">
+               <font>
+                  <Font name="System Bold" size="15.0" />
+               </font>
+            </Text>
+            <Text layoutX="189.0" layoutY="415.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Resets the board to its original state that was entered by the user, loaded in from a file, or selected from the predesign screen, undoing all changes." wrappingWidth="422.6304931640625" />
+            <Text layoutX="15.0" layoutY="159.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Add Column:">
+               <font>
+                  <Font name="System Bold" size="15.0" />
+               </font>
+            </Text>
+            <Text layoutX="112.0" layoutY="159.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Adds a column with every tile at a height of one immediately after the column clicked on." />
+            <Text layoutX="94.0" layoutY="383.0" strokeType="OUTSIDE" strokeWidth="0.0" text="More Features" textAlignment="CENTER" wrappingWidth="436.23046875" />
+            <Text layoutX="15.0" layoutY="467.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Dragging Tool:">
+               <font>
+                  <Font name="System Bold" size="15.0" />
+               </font>
+            </Text>
+            <Text layoutX="126.0" layoutY="467.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Dragging the mouse around on the canvas causes every tile dragged over to become selected." wrappingWidth="422.6304931640625" />
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>

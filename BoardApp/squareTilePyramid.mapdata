@@ -1,0 +1,4957 @@
+{
+  "shape": "Square",
+  "tileList": [
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          0.0,
+          38.0,
+          38.0,
+          0.0
+        ],
+        "yCoordinates": [
+          0.0,
+          0.0,
+          38.0,
+          38.0
+        ],
+        "column": 0,
+        "row": 0,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          40.0,
+          78.0,
+          78.0,
+          40.0
+        ],
+        "yCoordinates": [
+          0.0,
+          0.0,
+          38.0,
+          38.0
+        ],
+        "column": 1,
+        "row": 0,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          80.0,
+          118.0,
+          118.0,
+          80.0
+        ],
+        "yCoordinates": [
+          0.0,
+          0.0,
+          38.0,
+          38.0
+        ],
+        "column": 2,
+        "row": 0,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          120.0,
+          158.0,
+          158.0,
+          120.0
+        ],
+        "yCoordinates": [
+          0.0,
+          0.0,
+          38.0,
+          38.0
+        ],
+        "column": 3,
+        "row": 0,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          160.0,
+          198.0,
+          198.0,
+          160.0
+        ],
+        "yCoordinates": [
+          0.0,
+          0.0,
+          38.0,
+          38.0
+        ],
+        "column": 4,
+        "row": 0,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          200.0,
+          238.0,
+          238.0,
+          200.0
+        ],
+        "yCoordinates": [
+          0.0,
+          0.0,
+          38.0,
+          38.0
+        ],
+        "column": 5,
+        "row": 0,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          240.0,
+          278.0,
+          278.0,
+          240.0
+        ],
+        "yCoordinates": [
+          0.0,
+          0.0,
+          38.0,
+          38.0
+        ],
+        "column": 6,
+        "row": 0,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          280.0,
+          318.0,
+          318.0,
+          280.0
+        ],
+        "yCoordinates": [
+          0.0,
+          0.0,
+          38.0,
+          38.0
+        ],
+        "column": 7,
+        "row": 0,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          320.0,
+          358.0,
+          358.0,
+          320.0
+        ],
+        "yCoordinates": [
+          0.0,
+          0.0,
+          38.0,
+          38.0
+        ],
+        "column": 8,
+        "row": 0,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          360.0,
+          398.0,
+          398.0,
+          360.0
+        ],
+        "yCoordinates": [
+          0.0,
+          0.0,
+          38.0,
+          38.0
+        ],
+        "column": 9,
+        "row": 0,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          400.0,
+          438.0,
+          438.0,
+          400.0
+        ],
+        "yCoordinates": [
+          0.0,
+          0.0,
+          38.0,
+          38.0
+        ],
+        "column": 10,
+        "row": 0,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          440.0,
+          478.0,
+          478.0,
+          440.0
+        ],
+        "yCoordinates": [
+          0.0,
+          0.0,
+          38.0,
+          38.0
+        ],
+        "column": 11,
+        "row": 0,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          480.0,
+          518.0,
+          518.0,
+          480.0
+        ],
+        "yCoordinates": [
+          0.0,
+          0.0,
+          38.0,
+          38.0
+        ],
+        "column": 12,
+        "row": 0,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          520.0,
+          558.0,
+          558.0,
+          520.0
+        ],
+        "yCoordinates": [
+          0.0,
+          0.0,
+          38.0,
+          38.0
+        ],
+        "column": 13,
+        "row": 0,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          560.0,
+          598.0,
+          598.0,
+          560.0
+        ],
+        "yCoordinates": [
+          0.0,
+          0.0,
+          38.0,
+          38.0
+        ],
+        "column": 14,
+        "row": 0,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          0.0,
+          38.0,
+          38.0,
+          0.0
+        ],
+        "yCoordinates": [
+          40.0,
+          40.0,
+          78.0,
+          78.0
+        ],
+        "column": 0,
+        "row": 1,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          40.0,
+          78.0,
+          78.0,
+          40.0
+        ],
+        "yCoordinates": [
+          40.0,
+          40.0,
+          78.0,
+          78.0
+        ],
+        "column": 1,
+        "row": 1,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          80.0,
+          118.0,
+          118.0,
+          80.0
+        ],
+        "yCoordinates": [
+          40.0,
+          40.0,
+          78.0,
+          78.0
+        ],
+        "column": 2,
+        "row": 1,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          120.0,
+          158.0,
+          158.0,
+          120.0
+        ],
+        "yCoordinates": [
+          40.0,
+          40.0,
+          78.0,
+          78.0
+        ],
+        "column": 3,
+        "row": 1,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          160.0,
+          198.0,
+          198.0,
+          160.0
+        ],
+        "yCoordinates": [
+          40.0,
+          40.0,
+          78.0,
+          78.0
+        ],
+        "column": 4,
+        "row": 1,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          200.0,
+          238.0,
+          238.0,
+          200.0
+        ],
+        "yCoordinates": [
+          40.0,
+          40.0,
+          78.0,
+          78.0
+        ],
+        "column": 5,
+        "row": 1,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          240.0,
+          278.0,
+          278.0,
+          240.0
+        ],
+        "yCoordinates": [
+          40.0,
+          40.0,
+          78.0,
+          78.0
+        ],
+        "column": 6,
+        "row": 1,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          280.0,
+          318.0,
+          318.0,
+          280.0
+        ],
+        "yCoordinates": [
+          40.0,
+          40.0,
+          78.0,
+          78.0
+        ],
+        "column": 7,
+        "row": 1,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          320.0,
+          358.0,
+          358.0,
+          320.0
+        ],
+        "yCoordinates": [
+          40.0,
+          40.0,
+          78.0,
+          78.0
+        ],
+        "column": 8,
+        "row": 1,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          360.0,
+          398.0,
+          398.0,
+          360.0
+        ],
+        "yCoordinates": [
+          40.0,
+          40.0,
+          78.0,
+          78.0
+        ],
+        "column": 9,
+        "row": 1,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          400.0,
+          438.0,
+          438.0,
+          400.0
+        ],
+        "yCoordinates": [
+          40.0,
+          40.0,
+          78.0,
+          78.0
+        ],
+        "column": 10,
+        "row": 1,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          440.0,
+          478.0,
+          478.0,
+          440.0
+        ],
+        "yCoordinates": [
+          40.0,
+          40.0,
+          78.0,
+          78.0
+        ],
+        "column": 11,
+        "row": 1,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          480.0,
+          518.0,
+          518.0,
+          480.0
+        ],
+        "yCoordinates": [
+          40.0,
+          40.0,
+          78.0,
+          78.0
+        ],
+        "column": 12,
+        "row": 1,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          520.0,
+          558.0,
+          558.0,
+          520.0
+        ],
+        "yCoordinates": [
+          40.0,
+          40.0,
+          78.0,
+          78.0
+        ],
+        "column": 13,
+        "row": 1,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          560.0,
+          598.0,
+          598.0,
+          560.0
+        ],
+        "yCoordinates": [
+          40.0,
+          40.0,
+          78.0,
+          78.0
+        ],
+        "column": 14,
+        "row": 1,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          0.0,
+          38.0,
+          38.0,
+          0.0
+        ],
+        "yCoordinates": [
+          80.0,
+          80.0,
+          118.0,
+          118.0
+        ],
+        "column": 0,
+        "row": 2,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          40.0,
+          78.0,
+          78.0,
+          40.0
+        ],
+        "yCoordinates": [
+          80.0,
+          80.0,
+          118.0,
+          118.0
+        ],
+        "column": 1,
+        "row": 2,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          80.0,
+          118.0,
+          118.0,
+          80.0
+        ],
+        "yCoordinates": [
+          80.0,
+          80.0,
+          118.0,
+          118.0
+        ],
+        "column": 2,
+        "row": 2,
+        "height": 5.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          120.0,
+          158.0,
+          158.0,
+          120.0
+        ],
+        "yCoordinates": [
+          80.0,
+          80.0,
+          118.0,
+          118.0
+        ],
+        "column": 3,
+        "row": 2,
+        "height": 5.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          160.0,
+          198.0,
+          198.0,
+          160.0
+        ],
+        "yCoordinates": [
+          80.0,
+          80.0,
+          118.0,
+          118.0
+        ],
+        "column": 4,
+        "row": 2,
+        "height": 5.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          200.0,
+          238.0,
+          238.0,
+          200.0
+        ],
+        "yCoordinates": [
+          80.0,
+          80.0,
+          118.0,
+          118.0
+        ],
+        "column": 5,
+        "row": 2,
+        "height": 5.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          240.0,
+          278.0,
+          278.0,
+          240.0
+        ],
+        "yCoordinates": [
+          80.0,
+          80.0,
+          118.0,
+          118.0
+        ],
+        "column": 6,
+        "row": 2,
+        "height": 5.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          280.0,
+          318.0,
+          318.0,
+          280.0
+        ],
+        "yCoordinates": [
+          80.0,
+          80.0,
+          118.0,
+          118.0
+        ],
+        "column": 7,
+        "row": 2,
+        "height": 5.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          320.0,
+          358.0,
+          358.0,
+          320.0
+        ],
+        "yCoordinates": [
+          80.0,
+          80.0,
+          118.0,
+          118.0
+        ],
+        "column": 8,
+        "row": 2,
+        "height": 5.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          360.0,
+          398.0,
+          398.0,
+          360.0
+        ],
+        "yCoordinates": [
+          80.0,
+          80.0,
+          118.0,
+          118.0
+        ],
+        "column": 9,
+        "row": 2,
+        "height": 5.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          400.0,
+          438.0,
+          438.0,
+          400.0
+        ],
+        "yCoordinates": [
+          80.0,
+          80.0,
+          118.0,
+          118.0
+        ],
+        "column": 10,
+        "row": 2,
+        "height": 5.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          440.0,
+          478.0,
+          478.0,
+          440.0
+        ],
+        "yCoordinates": [
+          80.0,
+          80.0,
+          118.0,
+          118.0
+        ],
+        "column": 11,
+        "row": 2,
+        "height": 5.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          480.0,
+          518.0,
+          518.0,
+          480.0
+        ],
+        "yCoordinates": [
+          80.0,
+          80.0,
+          118.0,
+          118.0
+        ],
+        "column": 12,
+        "row": 2,
+        "height": 5.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          520.0,
+          558.0,
+          558.0,
+          520.0
+        ],
+        "yCoordinates": [
+          80.0,
+          80.0,
+          118.0,
+          118.0
+        ],
+        "column": 13,
+        "row": 2,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          560.0,
+          598.0,
+          598.0,
+          560.0
+        ],
+        "yCoordinates": [
+          80.0,
+          80.0,
+          118.0,
+          118.0
+        ],
+        "column": 14,
+        "row": 2,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          0.0,
+          38.0,
+          38.0,
+          0.0
+        ],
+        "yCoordinates": [
+          120.0,
+          120.0,
+          158.0,
+          158.0
+        ],
+        "column": 0,
+        "row": 3,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          40.0,
+          78.0,
+          78.0,
+          40.0
+        ],
+        "yCoordinates": [
+          120.0,
+          120.0,
+          158.0,
+          158.0
+        ],
+        "column": 1,
+        "row": 3,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          80.0,
+          118.0,
+          118.0,
+          80.0
+        ],
+        "yCoordinates": [
+          120.0,
+          120.0,
+          158.0,
+          158.0
+        ],
+        "column": 2,
+        "row": 3,
+        "height": 5.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          120.0,
+          158.0,
+          158.0,
+          120.0
+        ],
+        "yCoordinates": [
+          120.0,
+          120.0,
+          158.0,
+          158.0
+        ],
+        "column": 3,
+        "row": 3,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          160.0,
+          198.0,
+          198.0,
+          160.0
+        ],
+        "yCoordinates": [
+          120.0,
+          120.0,
+          158.0,
+          158.0
+        ],
+        "column": 4,
+        "row": 3,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          200.0,
+          238.0,
+          238.0,
+          200.0
+        ],
+        "yCoordinates": [
+          120.0,
+          120.0,
+          158.0,
+          158.0
+        ],
+        "column": 5,
+        "row": 3,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          240.0,
+          278.0,
+          278.0,
+          240.0
+        ],
+        "yCoordinates": [
+          120.0,
+          120.0,
+          158.0,
+          158.0
+        ],
+        "column": 6,
+        "row": 3,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          280.0,
+          318.0,
+          318.0,
+          280.0
+        ],
+        "yCoordinates": [
+          120.0,
+          120.0,
+          158.0,
+          158.0
+        ],
+        "column": 7,
+        "row": 3,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          320.0,
+          358.0,
+          358.0,
+          320.0
+        ],
+        "yCoordinates": [
+          120.0,
+          120.0,
+          158.0,
+          158.0
+        ],
+        "column": 8,
+        "row": 3,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          360.0,
+          398.0,
+          398.0,
+          360.0
+        ],
+        "yCoordinates": [
+          120.0,
+          120.0,
+          158.0,
+          158.0
+        ],
+        "column": 9,
+        "row": 3,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          400.0,
+          438.0,
+          438.0,
+          400.0
+        ],
+        "yCoordinates": [
+          120.0,
+          120.0,
+          158.0,
+          158.0
+        ],
+        "column": 10,
+        "row": 3,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          440.0,
+          478.0,
+          478.0,
+          440.0
+        ],
+        "yCoordinates": [
+          120.0,
+          120.0,
+          158.0,
+          158.0
+        ],
+        "column": 11,
+        "row": 3,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          480.0,
+          518.0,
+          518.0,
+          480.0
+        ],
+        "yCoordinates": [
+          120.0,
+          120.0,
+          158.0,
+          158.0
+        ],
+        "column": 12,
+        "row": 3,
+        "height": 5.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          520.0,
+          558.0,
+          558.0,
+          520.0
+        ],
+        "yCoordinates": [
+          120.0,
+          120.0,
+          158.0,
+          158.0
+        ],
+        "column": 13,
+        "row": 3,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          560.0,
+          598.0,
+          598.0,
+          560.0
+        ],
+        "yCoordinates": [
+          120.0,
+          120.0,
+          158.0,
+          158.0
+        ],
+        "column": 14,
+        "row": 3,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          0.0,
+          38.0,
+          38.0,
+          0.0
+        ],
+        "yCoordinates": [
+          160.0,
+          160.0,
+          198.0,
+          198.0
+        ],
+        "column": 0,
+        "row": 4,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          40.0,
+          78.0,
+          78.0,
+          40.0
+        ],
+        "yCoordinates": [
+          160.0,
+          160.0,
+          198.0,
+          198.0
+        ],
+        "column": 1,
+        "row": 4,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          80.0,
+          118.0,
+          118.0,
+          80.0
+        ],
+        "yCoordinates": [
+          160.0,
+          160.0,
+          198.0,
+          198.0
+        ],
+        "column": 2,
+        "row": 4,
+        "height": 5.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          120.0,
+          158.0,
+          158.0,
+          120.0
+        ],
+        "yCoordinates": [
+          160.0,
+          160.0,
+          198.0,
+          198.0
+        ],
+        "column": 3,
+        "row": 4,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          160.0,
+          198.0,
+          198.0,
+          160.0
+        ],
+        "yCoordinates": [
+          160.0,
+          160.0,
+          198.0,
+          198.0
+        ],
+        "column": 4,
+        "row": 4,
+        "height": 7.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          200.0,
+          238.0,
+          238.0,
+          200.0
+        ],
+        "yCoordinates": [
+          160.0,
+          160.0,
+          198.0,
+          198.0
+        ],
+        "column": 5,
+        "row": 4,
+        "height": 7.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          240.0,
+          278.0,
+          278.0,
+          240.0
+        ],
+        "yCoordinates": [
+          160.0,
+          160.0,
+          198.0,
+          198.0
+        ],
+        "column": 6,
+        "row": 4,
+        "height": 7.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          280.0,
+          318.0,
+          318.0,
+          280.0
+        ],
+        "yCoordinates": [
+          160.0,
+          160.0,
+          198.0,
+          198.0
+        ],
+        "column": 7,
+        "row": 4,
+        "height": 7.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          320.0,
+          358.0,
+          358.0,
+          320.0
+        ],
+        "yCoordinates": [
+          160.0,
+          160.0,
+          198.0,
+          198.0
+        ],
+        "column": 8,
+        "row": 4,
+        "height": 7.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          360.0,
+          398.0,
+          398.0,
+          360.0
+        ],
+        "yCoordinates": [
+          160.0,
+          160.0,
+          198.0,
+          198.0
+        ],
+        "column": 9,
+        "row": 4,
+        "height": 7.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          400.0,
+          438.0,
+          438.0,
+          400.0
+        ],
+        "yCoordinates": [
+          160.0,
+          160.0,
+          198.0,
+          198.0
+        ],
+        "column": 10,
+        "row": 4,
+        "height": 7.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          440.0,
+          478.0,
+          478.0,
+          440.0
+        ],
+        "yCoordinates": [
+          160.0,
+          160.0,
+          198.0,
+          198.0
+        ],
+        "column": 11,
+        "row": 4,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          480.0,
+          518.0,
+          518.0,
+          480.0
+        ],
+        "yCoordinates": [
+          160.0,
+          160.0,
+          198.0,
+          198.0
+        ],
+        "column": 12,
+        "row": 4,
+        "height": 5.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          520.0,
+          558.0,
+          558.0,
+          520.0
+        ],
+        "yCoordinates": [
+          160.0,
+          160.0,
+          198.0,
+          198.0
+        ],
+        "column": 13,
+        "row": 4,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          560.0,
+          598.0,
+          598.0,
+          560.0
+        ],
+        "yCoordinates": [
+          160.0,
+          160.0,
+          198.0,
+          198.0
+        ],
+        "column": 14,
+        "row": 4,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          0.0,
+          38.0,
+          38.0,
+          0.0
+        ],
+        "yCoordinates": [
+          200.0,
+          200.0,
+          238.0,
+          238.0
+        ],
+        "column": 0,
+        "row": 5,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          40.0,
+          78.0,
+          78.0,
+          40.0
+        ],
+        "yCoordinates": [
+          200.0,
+          200.0,
+          238.0,
+          238.0
+        ],
+        "column": 1,
+        "row": 5,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          80.0,
+          118.0,
+          118.0,
+          80.0
+        ],
+        "yCoordinates": [
+          200.0,
+          200.0,
+          238.0,
+          238.0
+        ],
+        "column": 2,
+        "row": 5,
+        "height": 5.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          120.0,
+          158.0,
+          158.0,
+          120.0
+        ],
+        "yCoordinates": [
+          200.0,
+          200.0,
+          238.0,
+          238.0
+        ],
+        "column": 3,
+        "row": 5,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          160.0,
+          198.0,
+          198.0,
+          160.0
+        ],
+        "yCoordinates": [
+          200.0,
+          200.0,
+          238.0,
+          238.0
+        ],
+        "column": 4,
+        "row": 5,
+        "height": 7.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          200.0,
+          238.0,
+          238.0,
+          200.0
+        ],
+        "yCoordinates": [
+          200.0,
+          200.0,
+          238.0,
+          238.0
+        ],
+        "column": 5,
+        "row": 5,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          240.0,
+          278.0,
+          278.0,
+          240.0
+        ],
+        "yCoordinates": [
+          200.0,
+          200.0,
+          238.0,
+          238.0
+        ],
+        "column": 6,
+        "row": 5,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          280.0,
+          318.0,
+          318.0,
+          280.0
+        ],
+        "yCoordinates": [
+          200.0,
+          200.0,
+          238.0,
+          238.0
+        ],
+        "column": 7,
+        "row": 5,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          320.0,
+          358.0,
+          358.0,
+          320.0
+        ],
+        "yCoordinates": [
+          200.0,
+          200.0,
+          238.0,
+          238.0
+        ],
+        "column": 8,
+        "row": 5,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          360.0,
+          398.0,
+          398.0,
+          360.0
+        ],
+        "yCoordinates": [
+          200.0,
+          200.0,
+          238.0,
+          238.0
+        ],
+        "column": 9,
+        "row": 5,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          400.0,
+          438.0,
+          438.0,
+          400.0
+        ],
+        "yCoordinates": [
+          200.0,
+          200.0,
+          238.0,
+          238.0
+        ],
+        "column": 10,
+        "row": 5,
+        "height": 7.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          440.0,
+          478.0,
+          478.0,
+          440.0
+        ],
+        "yCoordinates": [
+          200.0,
+          200.0,
+          238.0,
+          238.0
+        ],
+        "column": 11,
+        "row": 5,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          480.0,
+          518.0,
+          518.0,
+          480.0
+        ],
+        "yCoordinates": [
+          200.0,
+          200.0,
+          238.0,
+          238.0
+        ],
+        "column": 12,
+        "row": 5,
+        "height": 5.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          520.0,
+          558.0,
+          558.0,
+          520.0
+        ],
+        "yCoordinates": [
+          200.0,
+          200.0,
+          238.0,
+          238.0
+        ],
+        "column": 13,
+        "row": 5,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          560.0,
+          598.0,
+          598.0,
+          560.0
+        ],
+        "yCoordinates": [
+          200.0,
+          200.0,
+          238.0,
+          238.0
+        ],
+        "column": 14,
+        "row": 5,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          0.0,
+          38.0,
+          38.0,
+          0.0
+        ],
+        "yCoordinates": [
+          240.0,
+          240.0,
+          278.0,
+          278.0
+        ],
+        "column": 0,
+        "row": 6,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          40.0,
+          78.0,
+          78.0,
+          40.0
+        ],
+        "yCoordinates": [
+          240.0,
+          240.0,
+          278.0,
+          278.0
+        ],
+        "column": 1,
+        "row": 6,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          80.0,
+          118.0,
+          118.0,
+          80.0
+        ],
+        "yCoordinates": [
+          240.0,
+          240.0,
+          278.0,
+          278.0
+        ],
+        "column": 2,
+        "row": 6,
+        "height": 5.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          120.0,
+          158.0,
+          158.0,
+          120.0
+        ],
+        "yCoordinates": [
+          240.0,
+          240.0,
+          278.0,
+          278.0
+        ],
+        "column": 3,
+        "row": 6,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          160.0,
+          198.0,
+          198.0,
+          160.0
+        ],
+        "yCoordinates": [
+          240.0,
+          240.0,
+          278.0,
+          278.0
+        ],
+        "column": 4,
+        "row": 6,
+        "height": 7.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          200.0,
+          238.0,
+          238.0,
+          200.0
+        ],
+        "yCoordinates": [
+          240.0,
+          240.0,
+          278.0,
+          278.0
+        ],
+        "column": 5,
+        "row": 6,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          240.0,
+          278.0,
+          278.0,
+          240.0
+        ],
+        "yCoordinates": [
+          240.0,
+          240.0,
+          278.0,
+          278.0
+        ],
+        "column": 6,
+        "row": 6,
+        "height": 9.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          280.0,
+          318.0,
+          318.0,
+          280.0
+        ],
+        "yCoordinates": [
+          240.0,
+          240.0,
+          278.0,
+          278.0
+        ],
+        "column": 7,
+        "row": 6,
+        "height": 9.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          320.0,
+          358.0,
+          358.0,
+          320.0
+        ],
+        "yCoordinates": [
+          240.0,
+          240.0,
+          278.0,
+          278.0
+        ],
+        "column": 8,
+        "row": 6,
+        "height": 9.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          360.0,
+          398.0,
+          398.0,
+          360.0
+        ],
+        "yCoordinates": [
+          240.0,
+          240.0,
+          278.0,
+          278.0
+        ],
+        "column": 9,
+        "row": 6,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          400.0,
+          438.0,
+          438.0,
+          400.0
+        ],
+        "yCoordinates": [
+          240.0,
+          240.0,
+          278.0,
+          278.0
+        ],
+        "column": 10,
+        "row": 6,
+        "height": 7.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          440.0,
+          478.0,
+          478.0,
+          440.0
+        ],
+        "yCoordinates": [
+          240.0,
+          240.0,
+          278.0,
+          278.0
+        ],
+        "column": 11,
+        "row": 6,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          480.0,
+          518.0,
+          518.0,
+          480.0
+        ],
+        "yCoordinates": [
+          240.0,
+          240.0,
+          278.0,
+          278.0
+        ],
+        "column": 12,
+        "row": 6,
+        "height": 5.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          520.0,
+          558.0,
+          558.0,
+          520.0
+        ],
+        "yCoordinates": [
+          240.0,
+          240.0,
+          278.0,
+          278.0
+        ],
+        "column": 13,
+        "row": 6,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          560.0,
+          598.0,
+          598.0,
+          560.0
+        ],
+        "yCoordinates": [
+          240.0,
+          240.0,
+          278.0,
+          278.0
+        ],
+        "column": 14,
+        "row": 6,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          0.0,
+          38.0,
+          38.0,
+          0.0
+        ],
+        "yCoordinates": [
+          280.0,
+          280.0,
+          318.0,
+          318.0
+        ],
+        "column": 0,
+        "row": 7,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          40.0,
+          78.0,
+          78.0,
+          40.0
+        ],
+        "yCoordinates": [
+          280.0,
+          280.0,
+          318.0,
+          318.0
+        ],
+        "column": 1,
+        "row": 7,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          80.0,
+          118.0,
+          118.0,
+          80.0
+        ],
+        "yCoordinates": [
+          280.0,
+          280.0,
+          318.0,
+          318.0
+        ],
+        "column": 2,
+        "row": 7,
+        "height": 5.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          120.0,
+          158.0,
+          158.0,
+          120.0
+        ],
+        "yCoordinates": [
+          280.0,
+          280.0,
+          318.0,
+          318.0
+        ],
+        "column": 3,
+        "row": 7,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          160.0,
+          198.0,
+          198.0,
+          160.0
+        ],
+        "yCoordinates": [
+          280.0,
+          280.0,
+          318.0,
+          318.0
+        ],
+        "column": 4,
+        "row": 7,
+        "height": 7.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          200.0,
+          238.0,
+          238.0,
+          200.0
+        ],
+        "yCoordinates": [
+          280.0,
+          280.0,
+          318.0,
+          318.0
+        ],
+        "column": 5,
+        "row": 7,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          240.0,
+          278.0,
+          278.0,
+          240.0
+        ],
+        "yCoordinates": [
+          280.0,
+          280.0,
+          318.0,
+          318.0
+        ],
+        "column": 6,
+        "row": 7,
+        "height": 9.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          280.0,
+          318.0,
+          318.0,
+          280.0
+        ],
+        "yCoordinates": [
+          280.0,
+          280.0,
+          318.0,
+          318.0
+        ],
+        "column": 7,
+        "row": 7,
+        "height": 10.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          320.0,
+          358.0,
+          358.0,
+          320.0
+        ],
+        "yCoordinates": [
+          280.0,
+          280.0,
+          318.0,
+          318.0
+        ],
+        "column": 8,
+        "row": 7,
+        "height": 9.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          360.0,
+          398.0,
+          398.0,
+          360.0
+        ],
+        "yCoordinates": [
+          280.0,
+          280.0,
+          318.0,
+          318.0
+        ],
+        "column": 9,
+        "row": 7,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          400.0,
+          438.0,
+          438.0,
+          400.0
+        ],
+        "yCoordinates": [
+          280.0,
+          280.0,
+          318.0,
+          318.0
+        ],
+        "column": 10,
+        "row": 7,
+        "height": 7.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          440.0,
+          478.0,
+          478.0,
+          440.0
+        ],
+        "yCoordinates": [
+          280.0,
+          280.0,
+          318.0,
+          318.0
+        ],
+        "column": 11,
+        "row": 7,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          480.0,
+          518.0,
+          518.0,
+          480.0
+        ],
+        "yCoordinates": [
+          280.0,
+          280.0,
+          318.0,
+          318.0
+        ],
+        "column": 12,
+        "row": 7,
+        "height": 5.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          520.0,
+          558.0,
+          558.0,
+          520.0
+        ],
+        "yCoordinates": [
+          280.0,
+          280.0,
+          318.0,
+          318.0
+        ],
+        "column": 13,
+        "row": 7,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          560.0,
+          598.0,
+          598.0,
+          560.0
+        ],
+        "yCoordinates": [
+          280.0,
+          280.0,
+          318.0,
+          318.0
+        ],
+        "column": 14,
+        "row": 7,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          0.0,
+          38.0,
+          38.0,
+          0.0
+        ],
+        "yCoordinates": [
+          320.0,
+          320.0,
+          358.0,
+          358.0
+        ],
+        "column": 0,
+        "row": 8,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          40.0,
+          78.0,
+          78.0,
+          40.0
+        ],
+        "yCoordinates": [
+          320.0,
+          320.0,
+          358.0,
+          358.0
+        ],
+        "column": 1,
+        "row": 8,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          80.0,
+          118.0,
+          118.0,
+          80.0
+        ],
+        "yCoordinates": [
+          320.0,
+          320.0,
+          358.0,
+          358.0
+        ],
+        "column": 2,
+        "row": 8,
+        "height": 5.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          120.0,
+          158.0,
+          158.0,
+          120.0
+        ],
+        "yCoordinates": [
+          320.0,
+          320.0,
+          358.0,
+          358.0
+        ],
+        "column": 3,
+        "row": 8,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          160.0,
+          198.0,
+          198.0,
+          160.0
+        ],
+        "yCoordinates": [
+          320.0,
+          320.0,
+          358.0,
+          358.0
+        ],
+        "column": 4,
+        "row": 8,
+        "height": 7.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          200.0,
+          238.0,
+          238.0,
+          200.0
+        ],
+        "yCoordinates": [
+          320.0,
+          320.0,
+          358.0,
+          358.0
+        ],
+        "column": 5,
+        "row": 8,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          240.0,
+          278.0,
+          278.0,
+          240.0
+        ],
+        "yCoordinates": [
+          320.0,
+          320.0,
+          358.0,
+          358.0
+        ],
+        "column": 6,
+        "row": 8,
+        "height": 9.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          280.0,
+          318.0,
+          318.0,
+          280.0
+        ],
+        "yCoordinates": [
+          320.0,
+          320.0,
+          358.0,
+          358.0
+        ],
+        "column": 7,
+        "row": 8,
+        "height": 9.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          320.0,
+          358.0,
+          358.0,
+          320.0
+        ],
+        "yCoordinates": [
+          320.0,
+          320.0,
+          358.0,
+          358.0
+        ],
+        "column": 8,
+        "row": 8,
+        "height": 9.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          360.0,
+          398.0,
+          398.0,
+          360.0
+        ],
+        "yCoordinates": [
+          320.0,
+          320.0,
+          358.0,
+          358.0
+        ],
+        "column": 9,
+        "row": 8,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          400.0,
+          438.0,
+          438.0,
+          400.0
+        ],
+        "yCoordinates": [
+          320.0,
+          320.0,
+          358.0,
+          358.0
+        ],
+        "column": 10,
+        "row": 8,
+        "height": 7.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          440.0,
+          478.0,
+          478.0,
+          440.0
+        ],
+        "yCoordinates": [
+          320.0,
+          320.0,
+          358.0,
+          358.0
+        ],
+        "column": 11,
+        "row": 8,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          480.0,
+          518.0,
+          518.0,
+          480.0
+        ],
+        "yCoordinates": [
+          320.0,
+          320.0,
+          358.0,
+          358.0
+        ],
+        "column": 12,
+        "row": 8,
+        "height": 5.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          520.0,
+          558.0,
+          558.0,
+          520.0
+        ],
+        "yCoordinates": [
+          320.0,
+          320.0,
+          358.0,
+          358.0
+        ],
+        "column": 13,
+        "row": 8,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          560.0,
+          598.0,
+          598.0,
+          560.0
+        ],
+        "yCoordinates": [
+          320.0,
+          320.0,
+          358.0,
+          358.0
+        ],
+        "column": 14,
+        "row": 8,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          0.0,
+          38.0,
+          38.0,
+          0.0
+        ],
+        "yCoordinates": [
+          360.0,
+          360.0,
+          398.0,
+          398.0
+        ],
+        "column": 0,
+        "row": 9,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          40.0,
+          78.0,
+          78.0,
+          40.0
+        ],
+        "yCoordinates": [
+          360.0,
+          360.0,
+          398.0,
+          398.0
+        ],
+        "column": 1,
+        "row": 9,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          80.0,
+          118.0,
+          118.0,
+          80.0
+        ],
+        "yCoordinates": [
+          360.0,
+          360.0,
+          398.0,
+          398.0
+        ],
+        "column": 2,
+        "row": 9,
+        "height": 5.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          120.0,
+          158.0,
+          158.0,
+          120.0
+        ],
+        "yCoordinates": [
+          360.0,
+          360.0,
+          398.0,
+          398.0
+        ],
+        "column": 3,
+        "row": 9,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          160.0,
+          198.0,
+          198.0,
+          160.0
+        ],
+        "yCoordinates": [
+          360.0,
+          360.0,
+          398.0,
+          398.0
+        ],
+        "column": 4,
+        "row": 9,
+        "height": 7.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          200.0,
+          238.0,
+          238.0,
+          200.0
+        ],
+        "yCoordinates": [
+          360.0,
+          360.0,
+          398.0,
+          398.0
+        ],
+        "column": 5,
+        "row": 9,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          240.0,
+          278.0,
+          278.0,
+          240.0
+        ],
+        "yCoordinates": [
+          360.0,
+          360.0,
+          398.0,
+          398.0
+        ],
+        "column": 6,
+        "row": 9,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          280.0,
+          318.0,
+          318.0,
+          280.0
+        ],
+        "yCoordinates": [
+          360.0,
+          360.0,
+          398.0,
+          398.0
+        ],
+        "column": 7,
+        "row": 9,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          320.0,
+          358.0,
+          358.0,
+          320.0
+        ],
+        "yCoordinates": [
+          360.0,
+          360.0,
+          398.0,
+          398.0
+        ],
+        "column": 8,
+        "row": 9,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          360.0,
+          398.0,
+          398.0,
+          360.0
+        ],
+        "yCoordinates": [
+          360.0,
+          360.0,
+          398.0,
+          398.0
+        ],
+        "column": 9,
+        "row": 9,
+        "height": 8.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          400.0,
+          438.0,
+          438.0,
+          400.0
+        ],
+        "yCoordinates": [
+          360.0,
+          360.0,
+          398.0,
+          398.0
+        ],
+        "column": 10,
+        "row": 9,
+        "height": 7.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          440.0,
+          478.0,
+          478.0,
+          440.0
+        ],
+        "yCoordinates": [
+          360.0,
+          360.0,
+          398.0,
+          398.0
+        ],
+        "column": 11,
+        "row": 9,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          480.0,
+          518.0,
+          518.0,
+          480.0
+        ],
+        "yCoordinates": [
+          360.0,
+          360.0,
+          398.0,
+          398.0
+        ],
+        "column": 12,
+        "row": 9,
+        "height": 5.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          520.0,
+          558.0,
+          558.0,
+          520.0
+        ],
+        "yCoordinates": [
+          360.0,
+          360.0,
+          398.0,
+          398.0
+        ],
+        "column": 13,
+        "row": 9,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          560.0,
+          598.0,
+          598.0,
+          560.0
+        ],
+        "yCoordinates": [
+          360.0,
+          360.0,
+          398.0,
+          398.0
+        ],
+        "column": 14,
+        "row": 9,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          0.0,
+          38.0,
+          38.0,
+          0.0
+        ],
+        "yCoordinates": [
+          400.0,
+          400.0,
+          438.0,
+          438.0
+        ],
+        "column": 0,
+        "row": 10,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          40.0,
+          78.0,
+          78.0,
+          40.0
+        ],
+        "yCoordinates": [
+          400.0,
+          400.0,
+          438.0,
+          438.0
+        ],
+        "column": 1,
+        "row": 10,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          80.0,
+          118.0,
+          118.0,
+          80.0
+        ],
+        "yCoordinates": [
+          400.0,
+          400.0,
+          438.0,
+          438.0
+        ],
+        "column": 2,
+        "row": 10,
+        "height": 5.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          120.0,
+          158.0,
+          158.0,
+          120.0
+        ],
+        "yCoordinates": [
+          400.0,
+          400.0,
+          438.0,
+          438.0
+        ],
+        "column": 3,
+        "row": 10,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          160.0,
+          198.0,
+          198.0,
+          160.0
+        ],
+        "yCoordinates": [
+          400.0,
+          400.0,
+          438.0,
+          438.0
+        ],
+        "column": 4,
+        "row": 10,
+        "height": 7.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          200.0,
+          238.0,
+          238.0,
+          200.0
+        ],
+        "yCoordinates": [
+          400.0,
+          400.0,
+          438.0,
+          438.0
+        ],
+        "column": 5,
+        "row": 10,
+        "height": 7.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          240.0,
+          278.0,
+          278.0,
+          240.0
+        ],
+        "yCoordinates": [
+          400.0,
+          400.0,
+          438.0,
+          438.0
+        ],
+        "column": 6,
+        "row": 10,
+        "height": 7.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          280.0,
+          318.0,
+          318.0,
+          280.0
+        ],
+        "yCoordinates": [
+          400.0,
+          400.0,
+          438.0,
+          438.0
+        ],
+        "column": 7,
+        "row": 10,
+        "height": 7.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          320.0,
+          358.0,
+          358.0,
+          320.0
+        ],
+        "yCoordinates": [
+          400.0,
+          400.0,
+          438.0,
+          438.0
+        ],
+        "column": 8,
+        "row": 10,
+        "height": 7.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          360.0,
+          398.0,
+          398.0,
+          360.0
+        ],
+        "yCoordinates": [
+          400.0,
+          400.0,
+          438.0,
+          438.0
+        ],
+        "column": 9,
+        "row": 10,
+        "height": 7.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          400.0,
+          438.0,
+          438.0,
+          400.0
+        ],
+        "yCoordinates": [
+          400.0,
+          400.0,
+          438.0,
+          438.0
+        ],
+        "column": 10,
+        "row": 10,
+        "height": 7.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          440.0,
+          478.0,
+          478.0,
+          440.0
+        ],
+        "yCoordinates": [
+          400.0,
+          400.0,
+          438.0,
+          438.0
+        ],
+        "column": 11,
+        "row": 10,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          480.0,
+          518.0,
+          518.0,
+          480.0
+        ],
+        "yCoordinates": [
+          400.0,
+          400.0,
+          438.0,
+          438.0
+        ],
+        "column": 12,
+        "row": 10,
+        "height": 5.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          520.0,
+          558.0,
+          558.0,
+          520.0
+        ],
+        "yCoordinates": [
+          400.0,
+          400.0,
+          438.0,
+          438.0
+        ],
+        "column": 13,
+        "row": 10,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          560.0,
+          598.0,
+          598.0,
+          560.0
+        ],
+        "yCoordinates": [
+          400.0,
+          400.0,
+          438.0,
+          438.0
+        ],
+        "column": 14,
+        "row": 10,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          0.0,
+          38.0,
+          38.0,
+          0.0
+        ],
+        "yCoordinates": [
+          440.0,
+          440.0,
+          478.0,
+          478.0
+        ],
+        "column": 0,
+        "row": 11,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          40.0,
+          78.0,
+          78.0,
+          40.0
+        ],
+        "yCoordinates": [
+          440.0,
+          440.0,
+          478.0,
+          478.0
+        ],
+        "column": 1,
+        "row": 11,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          80.0,
+          118.0,
+          118.0,
+          80.0
+        ],
+        "yCoordinates": [
+          440.0,
+          440.0,
+          478.0,
+          478.0
+        ],
+        "column": 2,
+        "row": 11,
+        "height": 5.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          120.0,
+          158.0,
+          158.0,
+          120.0
+        ],
+        "yCoordinates": [
+          440.0,
+          440.0,
+          478.0,
+          478.0
+        ],
+        "column": 3,
+        "row": 11,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          160.0,
+          198.0,
+          198.0,
+          160.0
+        ],
+        "yCoordinates": [
+          440.0,
+          440.0,
+          478.0,
+          478.0
+        ],
+        "column": 4,
+        "row": 11,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          200.0,
+          238.0,
+          238.0,
+          200.0
+        ],
+        "yCoordinates": [
+          440.0,
+          440.0,
+          478.0,
+          478.0
+        ],
+        "column": 5,
+        "row": 11,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          240.0,
+          278.0,
+          278.0,
+          240.0
+        ],
+        "yCoordinates": [
+          440.0,
+          440.0,
+          478.0,
+          478.0
+        ],
+        "column": 6,
+        "row": 11,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          280.0,
+          318.0,
+          318.0,
+          280.0
+        ],
+        "yCoordinates": [
+          440.0,
+          440.0,
+          478.0,
+          478.0
+        ],
+        "column": 7,
+        "row": 11,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          320.0,
+          358.0,
+          358.0,
+          320.0
+        ],
+        "yCoordinates": [
+          440.0,
+          440.0,
+          478.0,
+          478.0
+        ],
+        "column": 8,
+        "row": 11,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          360.0,
+          398.0,
+          398.0,
+          360.0
+        ],
+        "yCoordinates": [
+          440.0,
+          440.0,
+          478.0,
+          478.0
+        ],
+        "column": 9,
+        "row": 11,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          400.0,
+          438.0,
+          438.0,
+          400.0
+        ],
+        "yCoordinates": [
+          440.0,
+          440.0,
+          478.0,
+          478.0
+        ],
+        "column": 10,
+        "row": 11,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          440.0,
+          478.0,
+          478.0,
+          440.0
+        ],
+        "yCoordinates": [
+          440.0,
+          440.0,
+          478.0,
+          478.0
+        ],
+        "column": 11,
+        "row": 11,
+        "height": 6.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          480.0,
+          518.0,
+          518.0,
+          480.0
+        ],
+        "yCoordinates": [
+          440.0,
+          440.0,
+          478.0,
+          478.0
+        ],
+        "column": 12,
+        "row": 11,
+        "height": 5.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          520.0,
+          558.0,
+          558.0,
+          520.0
+        ],
+        "yCoordinates": [
+          440.0,
+          440.0,
+          478.0,
+          478.0
+        ],
+        "column": 13,
+        "row": 11,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          560.0,
+          598.0,
+          598.0,
+          560.0
+        ],
+        "yCoordinates": [
+          440.0,
+          440.0,
+          478.0,
+          478.0
+        ],
+        "column": 14,
+        "row": 11,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          0.0,
+          38.0,
+          38.0,
+          0.0
+        ],
+        "yCoordinates": [
+          480.0,
+          480.0,
+          518.0,
+          518.0
+        ],
+        "column": 0,
+        "row": 12,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          40.0,
+          78.0,
+          78.0,
+          40.0
+        ],
+        "yCoordinates": [
+          480.0,
+          480.0,
+          518.0,
+          518.0
+        ],
+        "column": 1,
+        "row": 12,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          80.0,
+          118.0,
+          118.0,
+          80.0
+        ],
+        "yCoordinates": [
+          480.0,
+          480.0,
+          518.0,
+          518.0
+        ],
+        "column": 2,
+        "row": 12,
+        "height": 5.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          120.0,
+          158.0,
+          158.0,
+          120.0
+        ],
+        "yCoordinates": [
+          480.0,
+          480.0,
+          518.0,
+          518.0
+        ],
+        "column": 3,
+        "row": 12,
+        "height": 5.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          160.0,
+          198.0,
+          198.0,
+          160.0
+        ],
+        "yCoordinates": [
+          480.0,
+          480.0,
+          518.0,
+          518.0
+        ],
+        "column": 4,
+        "row": 12,
+        "height": 5.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          200.0,
+          238.0,
+          238.0,
+          200.0
+        ],
+        "yCoordinates": [
+          480.0,
+          480.0,
+          518.0,
+          518.0
+        ],
+        "column": 5,
+        "row": 12,
+        "height": 5.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          240.0,
+          278.0,
+          278.0,
+          240.0
+        ],
+        "yCoordinates": [
+          480.0,
+          480.0,
+          518.0,
+          518.0
+        ],
+        "column": 6,
+        "row": 12,
+        "height": 5.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          280.0,
+          318.0,
+          318.0,
+          280.0
+        ],
+        "yCoordinates": [
+          480.0,
+          480.0,
+          518.0,
+          518.0
+        ],
+        "column": 7,
+        "row": 12,
+        "height": 5.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          320.0,
+          358.0,
+          358.0,
+          320.0
+        ],
+        "yCoordinates": [
+          480.0,
+          480.0,
+          518.0,
+          518.0
+        ],
+        "column": 8,
+        "row": 12,
+        "height": 5.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          360.0,
+          398.0,
+          398.0,
+          360.0
+        ],
+        "yCoordinates": [
+          480.0,
+          480.0,
+          518.0,
+          518.0
+        ],
+        "column": 9,
+        "row": 12,
+        "height": 5.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          400.0,
+          438.0,
+          438.0,
+          400.0
+        ],
+        "yCoordinates": [
+          480.0,
+          480.0,
+          518.0,
+          518.0
+        ],
+        "column": 10,
+        "row": 12,
+        "height": 5.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          440.0,
+          478.0,
+          478.0,
+          440.0
+        ],
+        "yCoordinates": [
+          480.0,
+          480.0,
+          518.0,
+          518.0
+        ],
+        "column": 11,
+        "row": 12,
+        "height": 5.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          480.0,
+          518.0,
+          518.0,
+          480.0
+        ],
+        "yCoordinates": [
+          480.0,
+          480.0,
+          518.0,
+          518.0
+        ],
+        "column": 12,
+        "row": 12,
+        "height": 5.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          520.0,
+          558.0,
+          558.0,
+          520.0
+        ],
+        "yCoordinates": [
+          480.0,
+          480.0,
+          518.0,
+          518.0
+        ],
+        "column": 13,
+        "row": 12,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          560.0,
+          598.0,
+          598.0,
+          560.0
+        ],
+        "yCoordinates": [
+          480.0,
+          480.0,
+          518.0,
+          518.0
+        ],
+        "column": 14,
+        "row": 12,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          0.0,
+          38.0,
+          38.0,
+          0.0
+        ],
+        "yCoordinates": [
+          520.0,
+          520.0,
+          558.0,
+          558.0
+        ],
+        "column": 0,
+        "row": 13,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          40.0,
+          78.0,
+          78.0,
+          40.0
+        ],
+        "yCoordinates": [
+          520.0,
+          520.0,
+          558.0,
+          558.0
+        ],
+        "column": 1,
+        "row": 13,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          80.0,
+          118.0,
+          118.0,
+          80.0
+        ],
+        "yCoordinates": [
+          520.0,
+          520.0,
+          558.0,
+          558.0
+        ],
+        "column": 2,
+        "row": 13,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          120.0,
+          158.0,
+          158.0,
+          120.0
+        ],
+        "yCoordinates": [
+          520.0,
+          520.0,
+          558.0,
+          558.0
+        ],
+        "column": 3,
+        "row": 13,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          160.0,
+          198.0,
+          198.0,
+          160.0
+        ],
+        "yCoordinates": [
+          520.0,
+          520.0,
+          558.0,
+          558.0
+        ],
+        "column": 4,
+        "row": 13,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          200.0,
+          238.0,
+          238.0,
+          200.0
+        ],
+        "yCoordinates": [
+          520.0,
+          520.0,
+          558.0,
+          558.0
+        ],
+        "column": 5,
+        "row": 13,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          240.0,
+          278.0,
+          278.0,
+          240.0
+        ],
+        "yCoordinates": [
+          520.0,
+          520.0,
+          558.0,
+          558.0
+        ],
+        "column": 6,
+        "row": 13,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          280.0,
+          318.0,
+          318.0,
+          280.0
+        ],
+        "yCoordinates": [
+          520.0,
+          520.0,
+          558.0,
+          558.0
+        ],
+        "column": 7,
+        "row": 13,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          320.0,
+          358.0,
+          358.0,
+          320.0
+        ],
+        "yCoordinates": [
+          520.0,
+          520.0,
+          558.0,
+          558.0
+        ],
+        "column": 8,
+        "row": 13,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          360.0,
+          398.0,
+          398.0,
+          360.0
+        ],
+        "yCoordinates": [
+          520.0,
+          520.0,
+          558.0,
+          558.0
+        ],
+        "column": 9,
+        "row": 13,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          400.0,
+          438.0,
+          438.0,
+          400.0
+        ],
+        "yCoordinates": [
+          520.0,
+          520.0,
+          558.0,
+          558.0
+        ],
+        "column": 10,
+        "row": 13,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          440.0,
+          478.0,
+          478.0,
+          440.0
+        ],
+        "yCoordinates": [
+          520.0,
+          520.0,
+          558.0,
+          558.0
+        ],
+        "column": 11,
+        "row": 13,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          480.0,
+          518.0,
+          518.0,
+          480.0
+        ],
+        "yCoordinates": [
+          520.0,
+          520.0,
+          558.0,
+          558.0
+        ],
+        "column": 12,
+        "row": 13,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          520.0,
+          558.0,
+          558.0,
+          520.0
+        ],
+        "yCoordinates": [
+          520.0,
+          520.0,
+          558.0,
+          558.0
+        ],
+        "column": 13,
+        "row": 13,
+        "height": 4.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          560.0,
+          598.0,
+          598.0,
+          560.0
+        ],
+        "yCoordinates": [
+          520.0,
+          520.0,
+          558.0,
+          558.0
+        ],
+        "column": 14,
+        "row": 13,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          0.0,
+          38.0,
+          38.0,
+          0.0
+        ],
+        "yCoordinates": [
+          560.0,
+          560.0,
+          598.0,
+          598.0
+        ],
+        "column": 0,
+        "row": 14,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          40.0,
+          78.0,
+          78.0,
+          40.0
+        ],
+        "yCoordinates": [
+          560.0,
+          560.0,
+          598.0,
+          598.0
+        ],
+        "column": 1,
+        "row": 14,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          80.0,
+          118.0,
+          118.0,
+          80.0
+        ],
+        "yCoordinates": [
+          560.0,
+          560.0,
+          598.0,
+          598.0
+        ],
+        "column": 2,
+        "row": 14,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          120.0,
+          158.0,
+          158.0,
+          120.0
+        ],
+        "yCoordinates": [
+          560.0,
+          560.0,
+          598.0,
+          598.0
+        ],
+        "column": 3,
+        "row": 14,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          160.0,
+          198.0,
+          198.0,
+          160.0
+        ],
+        "yCoordinates": [
+          560.0,
+          560.0,
+          598.0,
+          598.0
+        ],
+        "column": 4,
+        "row": 14,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          200.0,
+          238.0,
+          238.0,
+          200.0
+        ],
+        "yCoordinates": [
+          560.0,
+          560.0,
+          598.0,
+          598.0
+        ],
+        "column": 5,
+        "row": 14,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          240.0,
+          278.0,
+          278.0,
+          240.0
+        ],
+        "yCoordinates": [
+          560.0,
+          560.0,
+          598.0,
+          598.0
+        ],
+        "column": 6,
+        "row": 14,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          280.0,
+          318.0,
+          318.0,
+          280.0
+        ],
+        "yCoordinates": [
+          560.0,
+          560.0,
+          598.0,
+          598.0
+        ],
+        "column": 7,
+        "row": 14,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          320.0,
+          358.0,
+          358.0,
+          320.0
+        ],
+        "yCoordinates": [
+          560.0,
+          560.0,
+          598.0,
+          598.0
+        ],
+        "column": 8,
+        "row": 14,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          360.0,
+          398.0,
+          398.0,
+          360.0
+        ],
+        "yCoordinates": [
+          560.0,
+          560.0,
+          598.0,
+          598.0
+        ],
+        "column": 9,
+        "row": 14,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          400.0,
+          438.0,
+          438.0,
+          400.0
+        ],
+        "yCoordinates": [
+          560.0,
+          560.0,
+          598.0,
+          598.0
+        ],
+        "column": 10,
+        "row": 14,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          440.0,
+          478.0,
+          478.0,
+          440.0
+        ],
+        "yCoordinates": [
+          560.0,
+          560.0,
+          598.0,
+          598.0
+        ],
+        "column": 11,
+        "row": 14,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          480.0,
+          518.0,
+          518.0,
+          480.0
+        ],
+        "yCoordinates": [
+          560.0,
+          560.0,
+          598.0,
+          598.0
+        ],
+        "column": 12,
+        "row": 14,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          520.0,
+          558.0,
+          558.0,
+          520.0
+        ],
+        "yCoordinates": [
+          560.0,
+          560.0,
+          598.0,
+          598.0
+        ],
+        "column": 13,
+        "row": 14,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    },
+    {
+      "type": "edu.augustana.egret.BoardEditorData.SquareTile",
+      "data": {
+        "xCoordinates": [
+          560.0,
+          598.0,
+          598.0,
+          560.0
+        ],
+        "yCoordinates": [
+          560.0,
+          560.0,
+          598.0,
+          598.0
+        ],
+        "column": 14,
+        "row": 14,
+        "height": 3.0,
+        "size": 38.0,
+        "isTilePointy": false
+      }
+    }
+  ],
+  "numRows": 15,
+  "numColumns": 15
+}
